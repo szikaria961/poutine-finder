@@ -1,0 +1,1003 @@
+{
+  "data": [
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "707 Dundas St W, Toronto, ON M5T 2W6, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.651987,
+          "lng": -79.4049422
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.65341162989272,
+            "lng": -79.40352737010728
+          },
+          "southwest": {
+            "lat": 43.65071197010727,
+            "lng": -79.40622702989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "NomNomNom Poutine",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 738,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102762953745636941779\">NomNomNom Crepes</a>"
+          ],
+          "photo_reference": "CmRaAAAAuEt2yORkwUEA88ZdpXxCv_8M3YEZO5scvMKPlCC0FhGbt1SjPC63s4O3q-l9KIV7oSoMhCFtE-XLqgsjwM7VOC5qFTU6YWYj83pKhTrSEL6vRvOOyxiF4QNlE7wrdkMBEhCUSuOtDnCwtbnJlI6BD5PMGhREMkWvmbH0wzOudwM39OKNZ99VpA",
+          "width": 1106
+        }
+      ],
+      "place_id": "ChIJ_xPnbug0K4gRqWC-uIhUmuw",
+      "plus_code": {
+        "compound_code": "MH2W+Q2 Toronto, Ontario",
+        "global_code": "87M2MH2W+Q2"
+      },
+      "price_level": 1,
+      "rating": 4.7,
+      "reference": "ChIJ_xPnbug0K4gRqWC-uIhUmuw",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 271
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "326 College St, Toronto, ON M5T 1S3, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6576364,
+          "lng": -79.4026524
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.65890317989273,
+            "lng": -79.40126957010726
+          },
+          "southwest": {
+            "lat": 43.65620352010728,
+            "lng": -79.40396922989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Fancy Franks Gourmet Hot Dogs",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112594009244196418262\">Steffen Reinhart</a>"
+          ],
+          "photo_reference": "CmRaAAAAuqJWur3JsFV9hQ9MBlt9njdQpyLUTcNf4XzoSVZ8p1cL_KU9N5oLVBinEYFtfobn5rVzI-RJfo_kPKyN1uq4hQ7KRASaC2QEzn2OzcgkKYDdUO0Q5XiopUKBaKukKBelEhBf-tY710Q9je7-2ECgAfaxGhR6ZWS8YDfIs2fafQvcKEqO4XL3XQ",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJP2os2ME0K4gRAaoCvQYkoq8",
+      "plus_code": {
+        "compound_code": "MH5W+3W Toronto, Ontario",
+        "global_code": "87M2MH5W+3W"
+      },
+      "price_level": 1,
+      "rating": 3.9,
+      "reference": "ChIJP2os2ME0K4gRAaoCvQYkoq8",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 435
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "269 Augusta Ave, Toronto, ON M5T 2M1, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6556609,
+          "lng": -79.4023543
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.65699842989272,
+            "lng": -79.40106332010728
+          },
+          "southwest": {
+            "lat": 43.65429877010727,
+            "lng": -79.40376297989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "The Burgernator",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 555,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100672653680967633491\">The Burgernator</a>"
+          ],
+          "photo_reference": "CmRaAAAAH-mVPA1DHwxD9b2u87iYT0EmLjfun2W2992sFP6QI77Mo93pVptKt6stGDGXs1jhmCQwVVNK98oJC3izB2FA-bYPx3TQIZKjfd8ZMATEQHwUZ9iPCktR0YWrzGO841vSEhBltA1be7eqOKsSylEHwWFGGhSJ7ZhhVo8fE0tcfR_4fn7OmbcohQ",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJpy8FA8I0K4gRrnthsBbx544",
+      "plus_code": {
+        "compound_code": "MH4X+73 Toronto, Ontario",
+        "global_code": "87M2MH4X+73"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJpy8FA8I0K4gRrnthsBbx544",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2186
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "218 Adelaide St W, Toronto, ON M5H 1W7, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6485412,
+          "lng": -79.3877675
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.64982002989272,
+            "lng": -79.38638862010727
+          },
+          "southwest": {
+            "lat": 43.64712037010728,
+            "lng": -79.3890882798927
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Smoke's Poutinerie",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3376,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105168501296073243656\">Bill Zhu</a>"
+          ],
+          "photo_reference": "CmRaAAAAO8kodCx_Zuur2NBxx7OsCgOKUUDJ9L1CWZ9_6r5pIy69vNL2pJMPTSUw3f1e1IUWvyQYtSaR3LXF4UDzIhTjS3UP2rQLf_-sMFHSDD6F55nLHr-cAwIgQAN5oovxu4IGEhD6sfkADZDyimECPAmGenTjGhRYjzCo44D_Q7OwzX0Ab7aNXalGFA",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJLbNPx9E0K4gRIpDVnhmgUb8",
+      "plus_code": {
+        "compound_code": "JJX6+CV Toronto, Ontario",
+        "global_code": "87M2JJX6+CV"
+      },
+      "rating": 4.1,
+      "reference": "ChIJLbNPx9E0K4gRIpDVnhmgUb8",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 957
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "formatted_address": "578 Queen St W, Toronto, ON M5V 2B7, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6473799,
+          "lng": -79.4037654
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.64866497989272,
+            "lng": -79.40239067010728
+          },
+          "southwest": {
+            "lat": 43.64596532010727,
+            "lng": -79.40509032989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Smoke's Poutinerie",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100101508444564075967\">Samuel Tvz</a>"
+          ],
+          "photo_reference": "CmRaAAAA0k6TPyQ2SGPbdYyoaEt7Pc_-7HE6g-z6B9Yi3cNfBXQvy-qT3G_BI_B5CGswCMbiODUo1YRblnfQMpZTZgTw5gB2EGW9NdfM7up0A2r-lAh-6tWrqUpqrLCcgWUDsUhaEhD0brewb0jdMD4duNUXzm6gGhRUH7oHgTznb0qS4rpK28UyBW12cg",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJHZKQROc0K4gRalxiKOJR4xs",
+      "plus_code": {
+        "compound_code": "JHWW+XF Toronto, Ontario",
+        "global_code": "87M2JHWW+XF"
+      },
+      "rating": 3.9,
+      "reference": "ChIJHZKQROc0K4gRalxiKOJR4xs",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 324
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "940 Bloor St W, Toronto, ON M6H 1L4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6616257,
+          "lng": -79.4277786
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.66292272989272,
+            "lng": -79.42640642010727
+          },
+          "southwest": {
+            "lat": 43.66022307010728,
+            "lng": -79.42910607989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Fancy Franks",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100946621078537444373\">Jeremy</a>"
+          ],
+          "photo_reference": "CmRaAAAAIy2E1ZcSUh-s5kFpmJdlUVSn-ZUF1TmsMwTPx_sKUZxG1I5mhwwI1ypdinTqDWI3P_psH_YcedW2i118vwpHWB5myixpTq4GGuzWoiwA0PtU_5WQh4ZP5AyzarpIS4L3EhBPuELFtC4Vv9DFaUmY2cdoGhSfjociqHS6uWmz_CuzLapvaTj_6A",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJB6J0uF80K4gRtwTLOqHjL0o",
+      "plus_code": {
+        "compound_code": "MH6C+MV Toronto, Ontario",
+        "global_code": "87M2MH6C+MV"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJB6J0uF80K4gRtwTLOqHjL0o",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 251
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "201 Augusta Ave, Toronto, ON M5T 2L4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6537924,
+          "lng": -79.40151999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.65512242989272,
+            "lng": -79.40026137010727
+          },
+          "southwest": {
+            "lat": 43.65242277010728,
+            "lng": -79.40296102989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Fresco's Fish and Chips",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105777365157964283160\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAbDKSw7OXXCDU_ajccytqmPadxjpLRsU8SZToB14FxDp5q76y1n8o5xOboUpkwPEBHxyyZa4BBXWlRCVBEAZwI0AeFHZBKb77Nuka-Wil-aZZyGPhD9pVhZtS68hdASRtEhDUMAenTWUeiBgueh6U2DQ8GhQ-ar7Qo5nhSO2YWD9_pAIwyhPmnA",
+          "width": 4288
+        }
+      ],
+      "place_id": "ChIJ5SAhacI0K4gRcZIhQKAyDTs",
+      "plus_code": {
+        "compound_code": "MH3X+G9 Toronto, Ontario",
+        "global_code": "87M2MH3X+G9"
+      },
+      "price_level": 1,
+      "rating": 4.6,
+      "reference": "ChIJ5SAhacI0K4gRcZIhQKAyDTs",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 736
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "2245 Bloor St W, Toronto, ON M6S 1N8, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6507373,
+          "lng": -79.4774365
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.65215297989272,
+            "lng": -79.47611517010728
+          },
+          "southwest": {
+            "lat": 43.64945332010728,
+            "lng": -79.47881482989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "The WORKS Gourmet Burger Bistro",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113151022963360990029\">Tim Ferguson</a>"
+          ],
+          "photo_reference": "CmRaAAAAVTUIlxTFsjicxKNqsrOMgdn9OPVRGXsKKjMeEXAZZqSLSOdc0y7F_OrDow9u1V07OiXlZ7dEwaDmyKnxUCc3xIiL1g-qNwuhsLu1CJccRHtXIdaLfUqYb6oSxKP9BNkEEhAstV2trQYlLwP2pwvySTmXGhSALDH57HvgIZxu3q8RGHJ5WzaJpQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJMbh8H4c2K4gRP0eC77S0ShU",
+      "plus_code": {
+        "compound_code": "MG2F+72 Toronto, Ontario",
+        "global_code": "87M2MG2F+72"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJMbh8H4c2K4gRP0eC77S0ShU",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 714
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1132 Dundas St W, Toronto, ON M6J 1X2, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6495833,
+          "lng": -79.4203639
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.65084942989272,
+            "lng": -79.41898092010727
+          },
+          "southwest": {
+            "lat": 43.64814977010728,
+            "lng": -79.42168057989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "The Lakeview Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105840258354069706248\">patrick p</a>"
+          ],
+          "photo_reference": "CmRaAAAA9emxtJhTZQt6UmXFxUE1QSUb44P-EMO9Uh7uLej5_F3RYwiLnxsf6A2Zy96VERTwB4net4rqfjgTL4FPSiftPKXiAF5yXLUBiAC5HwlyVnhS6a58gE_OOkTt-DXnb19-EhAMoEz_AVFMcJfkhsnBmnFWGhSaqbvuJiicr6lTnd0YBnFcC1JCng",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJOWjDZfk0K4gRWXgticNi7OY",
+      "plus_code": {
+        "compound_code": "JHXH+RV Toronto, Ontario",
+        "global_code": "87M2JHXH+RV"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJOWjDZfk0K4gRWXgticNi7OY",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2095
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "251 Augusta Ave, Toronto, ON M5T 2L8, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6550505,
+          "lng": -79.40196619999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.65637447989271,
+            "lng": -79.40073867010726
+          },
+          "southwest": {
+            "lat": 43.65367482010727,
+            "lng": -79.40343832989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Top Gun Burger",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108714107931471876040\">Top Gub Burgers</a>"
+          ],
+          "photo_reference": "CmRaAAAApEs92pHNgwm5FAw4U010T8AU8dZ6VwqAKyJFrtvnqDJk1o5u_0JTCT2Q0EejDdnQPkJcrCY62AMl_4eZ1hGgrF5_jBH3ZmggLMWAOhn830UG4XNiyhwtfXTYiXd51NIPEhDaMt2f-WBqn1hQQI19MT6fGhRQvBF_rsgQRzo4gjWGRrJDSGJFnw",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJi269Z8I0K4gRYi4TsdYXKgU",
+      "plus_code": {
+        "compound_code": "MH4X+26 Toronto, Ontario",
+        "global_code": "87M2MH4X+26"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJi269Z8I0K4gRYi4TsdYXKgU",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2527
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "formatted_address": "265 Queen St W, Toronto, ON M5V 1Z4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.65018,
+          "lng": -79.38915800000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.65157452989272,
+            "lng": -79.38782687010728
+          },
+          "southwest": {
+            "lat": 43.64887487010728,
+            "lng": -79.39052652989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Burger Factory",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 1673,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116594334762732173802\">Never Settle</a>"
+          ],
+          "photo_reference": "CmRaAAAADgBd33lloxwh24MwFCjrdEVn2jNNpM2k2hYEgPEtJMcQF6bFmgr4RFZcQhMk2JCX-lqNXKEbXmhXp3vQvvwMnSnumcuLpRv0WszYFqXBrDERkc1x3xdbz32JFrfmvlFLEhBDJsb5pu6GisWP1IaxobzlGhRVNze1NCZStfh5khEecqvE39n-iA",
+          "width": 3535
+        }
+      ],
+      "place_id": "ChIJ6ZIE0c80K4gRnzY79blj0ew",
+      "plus_code": {
+        "compound_code": "MJ26+38 Toronto, Ontario",
+        "global_code": "87M2MJ26+38"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJ6ZIE0c80K4gRnzY79blj0ew",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 546
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "913 Queen St E, Toronto, ON M4M 1J4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6606032,
+          "lng": -79.34144049999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.66202062989272,
+            "lng": -79.34011927010727
+          },
+          "southwest": {
+            "lat": 43.65932097010727,
+            "lng": -79.34281892989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Leslieville Pumps General Store & Kitchen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2992,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113969301675561042012\">Marco Davis</a>"
+          ],
+          "photo_reference": "CmRaAAAAgm9VIiGHEqmaNIbJulWqM0porlMJdwZT30s113AnHo7QGcFGiiEhlt9EAGf50cWcY0HSxE1K4xtwjLcfc2ATPUzCtiEGCsA2Isgv6gY_57VDNmh_JqAI8mvKOfkOEzeGEhAJlxI9JxmD76wdJkUcC_iQGhRRFDGHY7rtSc3-0g50AKBRpzHbJA",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJtcNMynbL1IkRkTsBy2Fs1dU",
+      "plus_code": {
+        "compound_code": "MM65+6C Toronto, Ontario",
+        "global_code": "87M2MM65+6C"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJtcNMynbL1IkRkTsBy2Fs1dU",
+      "types": [
+        "convenience_store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 231
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "360 Bay St, Toronto, ON M5H 2V6, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6507033,
+          "lng": -79.3813332
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.65207492989273,
+            "lng": -79.37988087010727
+          },
+          "southwest": {
+            "lat": 43.64937527010728,
+            "lng": -79.38258052989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "South St. Burger",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105782743850879750067\">A Google User</a>"
+          ],
+          "photo_reference": "CmRZAAAAElukzyFp1K2HyLVtpSYDXRi2_AtDQZ3wCU8ZdClr-OYtlyrZUMXm-FVLXUybf2l3j5TyV1zb1VspnbvnH8JaYiNtsCSlecjsfnKRcwjCj5fzX98dcyCuDDDRwk4wlrEoEhBJ2-Qyb77ddNKpyAg1mql7GhTXybk3Jo2WzVSXGPjG4-YsN6JTrw",
+          "width": 2366
+        }
+      ],
+      "place_id": "ChIJU-J_PM00K4gRgApUbjeeTXE",
+      "plus_code": {
+        "compound_code": "MJ29+7F Toronto, Ontario",
+        "global_code": "87M2MJ29+7F"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJU-J_PM00K4gRgApUbjeeTXE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 542
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "573 King St W, Toronto, ON M5V 1M1, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6443756,
+          "lng": -79.3994938
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.64581062989272,
+            "lng": -79.39817682010728
+          },
+          "southwest": {
+            "lat": 43.64311097010728,
+            "lng": -79.40087647989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Big Smoke Burger",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109855836485145826974\">Big Smoke Burger</a>"
+          ],
+          "photo_reference": "CmRaAAAAN3O0ochLwD53lyMG1Xi6RgXxmsBKQMSCtSgB9wLRGJdwr6hgYftaUaEuhXU1kQiwH0xyjZzF79PRmAHWdA9ecrtU2Jz9EQsW1hSLngHNZCzRtBSzHFJVsCVfLKjWAvu8EhD8_wC3onOEBqey7ejdIUKFGhQmBDeDpRAOshSL_LxpU9IzKS4dJg",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJoXLNo8s0K4gRVMPR34DFEoU",
+      "plus_code": {
+        "compound_code": "JJV2+Q6 Toronto, Ontario",
+        "global_code": "87M2JJV2+Q6"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJoXLNo8s0K4gRVMPR34DFEoU",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 413
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1056 Gerrard St E, Toronto, ON M4M 1Z8, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6692397,
+          "lng": -79.3359916
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.67053902989272,
+            "lng": -79.33462017010727
+          },
+          "southwest": {
+            "lat": 43.66783937010727,
+            "lng": -79.33731982989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Great Burger Kitchen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105614788485423325854\">Eric Tse</a>"
+          ],
+          "photo_reference": "CmRaAAAA7KK_bX-0rqpQTSBxasQBlRs7Ak1nTI1EwdlkhIQwfuFhGxgvxqyrJo18bXWqOay1yK_fEn6ZsvG76FjlajBqzHoHWxtXAFu-FGPhIVPAVoHQOYO9DRFO_ikShIxMlMtBEhCPbQmxASEjcggHrj7WO_r1GhR4t-xNsUriusTReVMvL9kNu2f5Fw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJMaqqWn_L1IkRQf06WIGrBy0",
+      "plus_code": {
+        "compound_code": "MM97+MJ Toronto, Ontario",
+        "global_code": "87M2MM97+MJ"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJMaqqWn_L1IkRQf06WIGrBy0",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 302
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "839 Queen St W, Toronto, ON M6J 1G4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6458594,
+          "lng": -79.41008219999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.64725802989272,
+            "lng": -79.40875107010729
+          },
+          "southwest": {
+            "lat": 43.64455837010728,
+            "lng": -79.41145072989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Loaded Pierogi",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5008,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111735286975620307831\">Loaded Pierogi</a>"
+          ],
+          "photo_reference": "CmRaAAAAJ2Ihizj6qGYHZtYU4dDEKmQeIaXoRK752GfXYVsEMJNNK1Ixs4xhSfTCQpgag2L1Ubv2N4ubxijEvbtMJ0yUqs0Nma6N2Zhz1-xFtD9DGFxOdbbkoC2RquMpnt5Cj8hMEhA2_g4FaBTfzN3olCJIrYD6GhT81fb9AzkMUQEVA4g_3AIkbf2Pxg",
+          "width": 3336
+        }
+      ],
+      "place_id": "ChIJsY51leM0K4gRVth6NR7VeOo",
+      "plus_code": {
+        "compound_code": "JHWQ+8X Toronto, Ontario",
+        "global_code": "87M2JHWQ+8X"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJsY51leM0K4gRVth6NR7VeOo",
+      "types": [
+        "restaurant",
+        "meal_takeaway",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 456
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "formatted_address": "1056 Bloor St W, Toronto, ON M6H 1M3, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6606205,
+          "lng": -79.4325966
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.66189372989272,
+            "lng": -79.43121602010727
+          },
+          "southwest": {
+            "lat": 43.65919407010728,
+            "lng": -79.43391567989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "The Hogtown Vegan",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114937035739151165472\">Francesco Papasidero</a>"
+          ],
+          "photo_reference": "CmRaAAAAJGV5VzQbqRFRCOJbEZfXxSOYkfht12wgae5N8u10qd56NwURiAhj20bgZll7K2nOf3L0WdpAQoFr6A95aCdKPqQcu97MPx8Xc20j25y3do8nPTtQz_K0Y_-8WHn0-DrHEhALHEhfVypfJFII46J90FThGhRmf7UADjteYNemhtXfFEdZ3Uzadg",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJkzjKNPU0K4gRyWgTAloPb_M",
+      "plus_code": {
+        "compound_code": "MH68+6X Toronto, Ontario",
+        "global_code": "87M2MH68+6X"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJkzjKNPU0K4gRyWgTAloPb_M",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1549
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "586 College St, Toronto, ON M6G 1B3, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6554,
+          "lng": -79.4134861
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.65669787989273,
+            "lng": -79.41211817010729
+          },
+          "southwest": {
+            "lat": 43.65399822010728,
+            "lng": -79.41481782989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Utopia Cafe & Grill",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2736,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116471421227140955872\">ja yoon choi</a>"
+          ],
+          "photo_reference": "CmRaAAAArloS9PXZIlQYc2FLX2AMzTkq4nwwmI1WapZhfeRJ-yOKs6w4RwqrxwhpKoiOIySauF1OCuXs9JTGFyJvb81lQUkSPGmn6PQUdZlCU_9dtlbeLcklAgnRdErWc8453tVaEhCJ6PK3nKte-IiFNFvQqDPEGhQUm-q_eM5y-jGSvBkIeps0bmeXDw",
+          "width": 3648
+        }
+      ],
+      "place_id": "ChIJ8Tt7I-40K4gR4vOSIxAmEg0",
+      "plus_code": {
+        "compound_code": "MH4P+5J Toronto, Ontario",
+        "global_code": "87M2MH4P+5J"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ8Tt7I-40K4gR4vOSIxAmEg0",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 424
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "147 Spadina Ave, Toronto, ON M5V 2L7, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6481284,
+          "lng": -79.39577799999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.64945592989271,
+            "lng": -79.39452932010728
+          },
+          "southwest": {
+            "lat": 43.64675627010727,
+            "lng": -79.39722897989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Fresh Restaurants",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102860934921321421672\">YOU JIN Lee</a>"
+          ],
+          "photo_reference": "CmRaAAAAWvN8iLj230Q09jX3HF_sfkUtbDmkg5X6X9IW6IESjUE-BKnH5YcrQqMN2isjPXYGiNWkMbSkxqQF9SvUU__a7KCQJEOV-VHDla4fGXDotTQAXciRB5POSpv1FdxnkTZ9EhAE1bmL6GdsFkbyhso_9L3bGhRvTwll_WjpO8jOsp55J_vAG05PRw",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJG1ubn9s0K4gRv7vo5hruH-I",
+      "plus_code": {
+        "compound_code": "JJX3+7M Toronto, Ontario",
+        "global_code": "87M2JJX3+7M"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJG1ubn9s0K4gRv7vo5hruH-I",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1642
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "46 Blue Jays Way, Toronto, ON M5V 2G5, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6451102,
+          "lng": -79.39213699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.64647867989272,
+            "lng": -79.39068932010727
+          },
+          "southwest": {
+            "lat": 43.64377902010727,
+            "lng": -79.39338897989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Wahlburgers Toronto",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1186,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104770420975645206982\">Patrick LaJuett</a>"
+          ],
+          "photo_reference": "CmRaAAAAcV7S2OY4QbiG6mx6eCruiBObossXRTXXCc5qZLof8VrhZThXsOOiXt3V-KLXXodvk7TFikRP4W-nmO2uSXWzA04DJ2KpaA3BnNXFla7kp6aZu6Lx1NTJDhmewln_BJdCEhAdzITyQ1P444dGhYaciQbfGhQAXfR4Aoz7Aazg4ndDmVYWRRSqtA",
+          "width": 1777
+        }
+      ],
+      "place_id": "ChIJkfulA9o0K4gRRLYH3R8SIxs",
+      "plus_code": {
+        "compound_code": "JJW5+24 Toronto, Ontario",
+        "global_code": "87M2JJW5+24"
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "ChIJkfulA9o0K4gRRLYH3R8SIxs",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2523
+    }
+  ],
+}

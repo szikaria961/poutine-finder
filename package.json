@@ -8,5 +8,8 @@
     "start": "node index.js"
   },
   "author": "Saba Zikaria",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
 }
