@@ -16,7 +16,7 @@ function initMap() {
     center: { lat: 43.651070, lng: -79.347015 },
   }
 
-  loadAllPlaces(function(response){
+  loadAllPlaces(function(response) {
     var map = new google.maps.Map(document.getElementById("map"), options);
 
     response.forEach(function(item){
@@ -30,9 +30,18 @@ function initMap() {
     });
 
     function addMarkers(locationData){
+      if(navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition((position) => {
+          const pos = {
+            lat: position.coords.latitude,
+            lng: position.coords.longitude,
+          };
+          map.setCenter(pos);
+        });
+      }
       var marker = new google.maps.Marker({
         position: locationData.coords,
-        map: map
+        map: map,
       });
 
       var infoWindow = new google.maps.InfoWindow({
