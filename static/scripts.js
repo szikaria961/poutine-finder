@@ -1,3 +1,5 @@
+var activeInfoWindow;
+
 function loadAllPlaces(callback) {
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function() {
@@ -26,12 +28,14 @@ function initMap() {
         },
         name: item.name,
         address: item.address,
-        priceLevel: item.price_level,
-        ratings: item.rating
+        priceLevel: item.priceLevel,
+        ratings: item.rating,
+        id: item.placeId
       });
     });
 
     function addMarkers(placeData){
+      var dollarSign;
       var customMarker = {
         url: "/images/poutine-marker.png",
         scaledSize: new google.maps.Size(25, 25),
@@ -43,7 +47,6 @@ function initMap() {
         map: map,
         icon: customMarker,
       });
-      var dollarSign;
 
       if(navigator.geolocation) {
         navigator.geolocation.getCurrentPosition((position) => {
@@ -54,7 +57,6 @@ function initMap() {
           map.setCenter(pos);
         });
       }
-
 
       function getDollarSign(priceLevel) {
         var dollarSignMap = {
@@ -68,17 +70,23 @@ function initMap() {
         return "$";
       }
 
+      function getMapsLinkByPlaceId(id) {
+        return `https://www.google.com/maps/place/?q=place_id:${id}`;
+      }
+
       var infoWindow = new google.maps.InfoWindow({
         content:`<div class="location-data">
                    <p>Name: ${placeData.name}</p>
-                   <p>Address: ${placeData.address}</p>
+                   <p>Address: <a href="${getMapsLinkByPlaceId(placeData.id)}">${placeData.address}</a></p>
                    <p>Price Level: ${getDollarSign(placeData.priceLevel)} </p>
                    <p>Stars: ${placeData.ratings}</p>
                  </div>`
       });
 
-      marker.addListener('click', function(){
-        infoWindow.open(map, marker);
+      marker.addListener('mouseover', function () {
+          if (activeInfoWindow) { activeInfoWindow.close(); }
+          infoWindow.open(map, marker);
+          activeInfoWindow = infoWindow;
       });
     }
   });

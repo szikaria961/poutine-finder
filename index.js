@@ -8,7 +8,7 @@ require('dotenv').config();
 
 const PORT = process.env.PORT || 8000;
 const API_KEY = process.env.API_KEY;
-const PLACES_API_INPUT = "poutine places in Oakville";
+const PLACES_API_INPUT = "poutine places in Ajax";
 
 const app = express();
 
@@ -29,13 +29,14 @@ app.get('/', (req, res) => {
 
 app.get('/api/places', (req, res, next) => {
   try {
-    const data = poutineLocations.map(({ name, formatted_address: address, geometry, price_level, rating}) => {
+    const data = poutineLocations.map(({ name, formatted_address: address, geometry, price_level: priceLevel, rating, place_id: placeId}) => {
       return {
         name,
         address,
         geometry,
-        price_level,
-        rating
+        priceLevel,
+        rating,
+        placeId
       };
     });
     res.json(data);
