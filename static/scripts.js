@@ -88,6 +88,11 @@ function initMap() {
           infoWindow.open(map, marker);
           activeInfoWindow = infoWindow;
       });
+      marker.addListener('click', function () {
+          if (activeInfoWindow) { activeInfoWindow.close(); }
+          infoWindow.open(map, marker);
+          activeInfoWindow = infoWindow;
+      });
     }
   });
 }
