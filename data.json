@@ -998,6 +998,4788 @@
         "establishment"
       ],
       "user_ratings_total": 2523
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "3795 Lake Shore Blvd W, Etobicoke, ON M8W 1R2, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.5923841,
+          "lng": -79.5418749
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.59382372989272,
+            "lng": -79.54056482010728
+          },
+          "southwest": {
+            "lat": 43.59112407010728,
+            "lng": -79.54326447989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Woody's Burgers",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116302487637042519582\">Mikey C</a>"
+          ],
+          "photo_reference": "CmRaAAAAB93Wq2BCk2byYGYU8H3QVQTFZLdQv2JUxefTr6Dh0p2fmh4twy38HlkJihaPewEC0k9HyQ54gPzlDyTPVdLo3bnp1lp3ZiS2CG40tAHqIUDWxLPS2YRRKTBNOwNbyDa2EhCp_4gbHI2jq6IHEre_2okVGhS4MqKYMZj5S-tRGkvLLLCV9MwwFg",
+          "width": 2560
+        }
+      ],
+      "place_id": "ChIJNREbW2lIK4gRaj7lOx1itJU",
+      "plus_code": {
+        "compound_code": "HFR5+X7 Etobicoke, Toronto, ON",
+        "global_code": "87M2HFR5+X7"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJNREbW2lIK4gRaj7lOx1itJU",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1601
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "704 The Queensway, Etobicoke, ON M8Y 1L3, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6269635,
+          "lng": -79.5005345
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.62824292989271,
+            "lng": -79.49915437010729
+          },
+          "southwest": {
+            "lat": 43.62554327010727,
+            "lng": -79.50185402989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Meltwich",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111378957555459654695\">Stephane Demers</a>"
+          ],
+          "photo_reference": "CmRaAAAAHvHsKBlRiL0GJ9fC0vR5P9i7JoCdbAdezvgo9BDJ7kSk9oT3m7Wm1FBxEHvoNeqGqf6cVThQBjvQf_JrgJL_2W-uBvsRKamRDJmeoH8xrnrk4NxLMNR4lX7xnhm6Eon2EhAxCet2fm-50b5_1ixoS0EAGhQU_Pj0oQDZXoUdNPG9jC7vNxaEeQ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJS23AYjk2K4gRzzLWOiEIU2w",
+      "plus_code": {
+        "compound_code": "JFGX+QQ Etobicoke, Toronto, ON",
+        "global_code": "87M2JFGX+QQ"
+      },
+      "rating": 4,
+      "reference": "ChIJS23AYjk2K4gRzzLWOiEIU2w",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 358
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "5236 Dundas St W, Etobicoke, ON M9B 1A7, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6393184,
+          "lng": -79.53777749999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.64068242989272,
+            "lng": -79.53635857010727
+          },
+          "southwest": {
+            "lat": 43.63798277010728,
+            "lng": -79.53905822989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Apache Burgers",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105182935927116602769\">Amarjit Dhamrait</a>"
+          ],
+          "photo_reference": "CmRaAAAAya0Wer-rMEM5HTX2r3sTxkJ3gJUQ6wro2o_glL2YonMEfs_YJoLzOScOs5HcHcjb_9bMQVGRF4C9asFAELZHfKu713ktR-aa3jvnVdQEgHPb8FN0zz7RizKuNh8w6n7tEhCE82JSrxJLtWXPdntsRAIzGhR27hgKM_xp6TlD9tFcTBQ-aVLB_w",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJ5_4bHL43K4gRlMRkVLS4ONg",
+      "plus_code": {
+        "compound_code": "JFQ6+PV Etobicoke, Toronto, ON",
+        "global_code": "87M2JFQ6+PV"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJ5_4bHL43K4gRlMRkVLS4ONg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1740
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "602 Brown's Line, Etobicoke, ON M8W 3V5, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6052613,
+          "lng": -79.5471944
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.60662897989272,
+            "lng": -79.54577152010728
+          },
+          "southwest": {
+            "lat": 43.60392932010728,
+            "lng": -79.54847117989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "OBQ Burgers",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4224,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108346865438717888254\">Ricky</a>"
+          ],
+          "photo_reference": "CmRaAAAAeW-oeDhbAniqiARiRMD1_TiJ-90s4R_bdD_p13x_9cfrJy5Gs0Lcv9GNWa3viv8Dv61uSF1ZNgfxDJkGPd0-aUMKj86Yc1Swuo4huAq-hEgIlStmcJCj8F4LpHoDoK6dEhBnSXwHOB_zk2jJhOhGW_o6GhRUXg9SuV6hMQrsJysMtW87cT4Mxg",
+          "width": 5632
+        }
+      ],
+      "place_id": "ChIJaRxVUhBIK4gRpV75htDdi_E",
+      "plus_code": {
+        "compound_code": "JF43+44 Etobicoke, Toronto, ON",
+        "global_code": "87M2JF43+44"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJaRxVUhBIK4gRpV75htDdi_E",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 315
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1599 The Queensway, Etobicoke, ON M8Z 1T8, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6169485,
+          "lng": -79.5427483
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.61831077989272,
+            "lng": -79.54134207010728
+          },
+          "southwest": {
+            "lat": 43.61561112010727,
+            "lng": -79.54404172989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "The Burger's Priest",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100067305974487538299\">Sartaj Gill</a>"
+          ],
+          "photo_reference": "CmRaAAAAFdqj43w816hyzrQ2WexWvK3_AIViNOdYdOkEbRjdO1Uy0YVF4yDsmY_UXLk9qnm3IgFCUN5F94VZ-jm7JX-8YBNeJF8Pu4ULtDYV5qUzDVuys3QbK0SogwwXYRU8Yy0KEhCIRhGZXZI4diFXQI3gd1azGhRp32aE47JQNCmUer9jJnUxR_1XcA",
+          "width": 1960
+        }
+      ],
+      "place_id": "ChIJBSIq--E3K4gR-KU396dQFGc",
+      "plus_code": {
+        "compound_code": "JF84+QW Etobicoke, Toronto, ON",
+        "global_code": "87M2JF84+QW"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJBSIq--E3K4gR-KU396dQFGc",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2020
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1020 Islington Ave, Etobicoke, ON M8Z 6A4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6315724,
+          "lng": -79.51972049999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.63282242989273,
+            "lng": -79.51812907010728
+          },
+          "southwest": {
+            "lat": 43.63012277010728,
+            "lng": -79.52082872989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "South St. Burger",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115314653120566285923\">South St. Burger Co.</a>"
+          ],
+          "photo_reference": "CmRaAAAAXuPUeHt952b36jZC_QhKpHEpDln0RXYOn-2aDOkMd3pgRUxJe8KYATFfBMn4SkoveRQzTQeG7eru5CUvuZME17RAV0RF7F9yU4L-feucq9IFPQUa-Dp6ZycDsQWCUUxGEhChYhPZiJqD3lHNy7nCGD1JGhSRHE8Jctk_CCbff8LG_Hle9xccFA",
+          "width": 2366
+        }
+      ],
+      "place_id": "ChIJB8KJAcs3K4gRVP_C97SvS8I",
+      "plus_code": {
+        "compound_code": "JFJJ+J4 Etobicoke, Toronto, ON",
+        "global_code": "87M2JFJJ+J4"
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "ChIJB8KJAcs3K4gRVP_C97SvS8I",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 343
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "4243 Dundas St W, Etobicoke, ON M8X 1Y3, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.65964899999999,
+          "lng": -79.51445799999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.66095172989272,
+            "lng": -79.51307512010727
+          },
+          "southwest": {
+            "lat": 43.65825207010727,
+            "lng": -79.51577477989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Magoo's",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102558656422185321080\">Keshia Mamdeen</a>"
+          ],
+          "photo_reference": "CmRaAAAAwD6k9x5lJU7RtaYX8JgAPkzoh5Q_VenkOP1Odd16jBrgq8szjhbKfwMFLtTp7IQfoGadWEuLTRWY2BPZ9KBqFzSMfnQ6eClnZ-8ByBOt3WaEcNeTvPNfdWs4ptb-aUfoEhA45Y8stEGZ7APvhn5asPx1GhTOv1zg18z07YgoXoKk2AZxk2Cj7w",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJZ4iyDP02K4gRkIYwqk50OGY",
+      "plus_code": {
+        "compound_code": "MF5P+V6 Etobicoke, Toronto, ON",
+        "global_code": "87M2MF5P+V6"
+      },
+      "rating": 4.5,
+      "reference": "ChIJZ4iyDP02K4gRkIYwqk50OGY",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 445
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "3560 Lake Shore Blvd W, Etobicoke, ON M8W 1N6, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.5946383,
+          "lng": -79.53384609999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.59588677989272,
+            "lng": -79.53245092010728
+          },
+          "southwest": {
+            "lat": 43.59318712010727,
+            "lng": -79.53515057989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Hero Certified Burgers",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105028640567889749566\">Hero Certified Burgers</a>"
+          ],
+          "photo_reference": "CmRaAAAAKc_71_c4fKrqHHIfmWjab6VcyKoVJNvlB8MLq2-DD7F7zdiYm2XiZohCE-nHBLmUhymVj3JUwbKh2kGWa94aWfNAcGej6JL8-EmUyjvrtolfJSLi_f4Rlb6rsh6GA5pjEhCfWBCRNyfabAz9vkvPhr4rGhT6smKogdCgIhzpeNy7qDhLRi6ajQ",
+          "width": 5760
+        }
+      ],
+      "place_id": "ChIJs5Rg50BIK4gRCLWqFfITYE8",
+      "plus_code": {
+        "compound_code": "HFV8+VF Etobicoke, Toronto, ON",
+        "global_code": "87M2HFV8+VF"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJs5Rg50BIK4gRCLWqFfITYE8",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 355
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "3327 Lake Shore Blvd W, Etobicoke, ON M8W 1N1, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.59622299999999,
+          "lng": -79.52505769999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.59766097989272,
+            "lng": -79.52374417010726
+          },
+          "southwest": {
+            "lat": 43.59496132010727,
+            "lng": -79.52644382989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Super Burger",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112165200085026505718\">Vanessa Cad</a>"
+          ],
+          "photo_reference": "CmRaAAAAJeD604WKWI59oDLUR76UlzFTL6M87s5uT2PHAqh166aArAEhOl03hbGBx9jKWEcB7EhjSOsVqD1D41dNaeWNzZPipY2KUGpTo1TBEUKa-55yvtcUr12kI1fh2Cbi8XfbEhCnwuKp5CBESan1HLub2trNGhRYMBsyWqh2COuguybHg4yK_7GloQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJT1t43jdIK4gRBvCUC9HTUSk",
+      "plus_code": {
+        "compound_code": "HFWF+FX Etobicoke, Toronto, ON",
+        "global_code": "87M2HFWF+FX"
+      },
+      "price_level": 1,
+      "rating": 4.6,
+      "reference": "ChIJT1t43jdIK4gRBvCUC9HTUSk",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 165
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "2214 Lake Shore Blvd W, Etobicoke, ON M8V 0E3, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6224854,
+          "lng": -79.4825547
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.62396897989272,
+            "lng": -79.48111397010729
+          },
+          "southwest": {
+            "lat": 43.62126932010727,
+            "lng": -79.48381362989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Sunset Grill",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117288872784438281199\">pantea ahmadi</a>"
+          ],
+          "photo_reference": "CmRaAAAAsdjOOIH9ytKYUGG_QNzOtNYtFn5gD84PZe-tMASm7AlRRtArf7UhPtZAIMzs8e1L2g4c7DpVUD_wH50-N8UenQPKoPs76tB7fwsMvqzToFY0vi9oCrN3J7RAgwDWoFFtEhBlE1A0r0HsnSPyJQgZdaGqGhTuhzLYsogo8lyifpZV7A3JASyYRw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJL_--MRA2K4gRDRg6-xzMhX0",
+      "plus_code": {
+        "compound_code": "JGC8+XX Etobicoke, Toronto, ON",
+        "global_code": "87M2JGC8+XX"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJL_--MRA2K4gRDRg6-xzMhX0",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 311
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "2324 Lake Shore Blvd W, Etobicoke, ON M8V 1B6, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6172621,
+          "lng": -79.4877949
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.61855962989272,
+            "lng": -79.48626037010727
+          },
+          "southwest": {
+            "lat": 43.61585997010727,
+            "lng": -79.48896002989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Panagio's All Day Grill",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108070545707717156706\">Brittany Tom</a>"
+          ],
+          "photo_reference": "CmRaAAAAaoJQlnVXV_cikEAHJ9bLckS3e90vYC2Zl-B_5mso8tatzyen7Q1luvBmSqt6dfYopibA87rmH5744aeTniySB4nMzDE2iwop9GuKBfr4_wSteFgQQtkU1cVpA4CFjsT3EhDI65OpoRVMVxMsZOyDDqZqGhSMfK6-orVlVrNGmDkUuqa2T1D3gg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJL63aWhk2K4gRDCLcJX2_x00",
+      "plus_code": {
+        "compound_code": "JG86+WV Etobicoke, Toronto, ON",
+        "global_code": "87M2JG86+WV"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJL63aWhk2K4gRDCLcJX2_x00",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 300
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "148 N Queen St, Etobicoke, ON M9C 1A8, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6195905,
+          "lng": -79.5548919
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.62097627989272,
+            "lng": -79.55348782010728
+          },
+          "southwest": {
+            "lat": 43.61827662010727,
+            "lng": -79.55618747989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Five Guys",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102400135708647879997\">Crisanto Gines</a>"
+          ],
+          "photo_reference": "CmRaAAAAdbn4ThSwOjPzbAjN0Al7FpSX4c7_RctCCEdMmKOvfxl1d2sYQTJtbXfOlIIWEII43tBeSNGStMPUT2zZaZQY9b_MKWSgUBFo3D6RFg2rBB_M9R-im6GowQ_6ToZ3WyLOEhA8sjJHZeAhJqYRm71xGJmpGhRpScYaIXVYw-G2nxoTNyi0MBwDag",
+          "width": 1960
+        }
+      ],
+      "place_id": "ChIJQUkKz_03K4gR7HB72zYuuLc",
+      "plus_code": {
+        "compound_code": "JC9W+R2 Etobicoke, Toronto, ON",
+        "global_code": "87M2JC9W+R2"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJQUkKz_03K4gR7HB72zYuuLc",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 868
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "2976 Lake Shore Blvd W, Etobicoke, ON M8V 1J9, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6005916,
+          "lng": -79.5069156
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.60186027989273,
+            "lng": -79.50553182010728
+          },
+          "southwest": {
+            "lat": 43.59916062010728,
+            "lng": -79.50823147989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Kitchen On Sixth",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107997722503701705632\">Massimo Ambrosini</a>"
+          ],
+          "photo_reference": "CmRaAAAAmPn6LZt5J_AkQrkK--5tjianIMGW__BIM17DpUtwB2bTuGo5jZZTf90Ro1U-gite3De77_q67lTBSLpMmObrkCIPGtxiJxgbexpWI01sRyO_znn5f-8EJFq9QwQTRKmMEhBSgiTOk_QVHST1q-CEqbNpGhQNStcIzg-jNdTmAt6H7Qkus59P8A",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJBwBcgc9JK4gR_F0M5wc8tvc",
+      "plus_code": {
+        "compound_code": "JF2V+66 Etobicoke, Toronto, ON",
+        "global_code": "87M2JF2V+66"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJBwBcgc9JK4gR_F0M5wc8tvc",
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 574
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "2916 Lake Shore Blvd W, Etobicoke, ON M8V 1J4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6011136,
+          "lng": -79.5046813
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.60236832989272,
+            "lng": -79.50329152010728
+          },
+          "southwest": {
+            "lat": 43.59966867010728,
+            "lng": -79.50599117989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "London Fried Chicken",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1672,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118192017088723550198\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAP51FmvK6EDya_keJHc45epJnr-y0qAiZ7fPNT0P8SKirjzGRuTMvQm1TVRvsanyNXXhHmGubUHNYu-lhoRBOwYuYTxnvo26gacyQSSpVFmOMOo_uOTyUXC10Ctlgct5SEhAzYUqYRnfh73Kfx1ghq7hGGhQG9hoXJDAzEfMvxdx8Se4HsrfYpQ",
+          "width": 2508
+        }
+      ],
+      "place_id": "ChIJbfNGqFNJK4gR9ql05PRaXmg",
+      "plus_code": {
+        "compound_code": "JF2W+C4 Etobicoke, Toronto, ON",
+        "global_code": "87M2JF2W+C4"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJbfNGqFNJK4gR9ql05PRaXmg",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 234
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "927 The Queensway, Etobicoke, ON M8Z 5Z7, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6238049,
+          "lng": -79.51116499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.62544387989271,
+            "lng": -79.50994172010728
+          },
+          "southwest": {
+            "lat": 43.62274422010727,
+            "lng": -79.51264137989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "The Pie Commission",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110585655909572885653\">Sam Salituro</a>"
+          ],
+          "photo_reference": "CmRaAAAAKMxVf2cPXSFunR42SChr-rEcN_dizlErpP33seSMCo9GLH_2jlbF0VJzszO8Y_7Y5PgLrQDGsO2NjGADs9cXhLbwjT-RImrI6Tr7UAvbhuVX7gV13dKqBU3cyvXR1L3WEhBmAnfNdwpRvgkK_kEWA9fJGhSa0D1tJi0DlNKejmz1l3__CEaMmg",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ9WuyfjI2K4gRzy9pQT9GzUs",
+      "plus_code": {
+        "compound_code": "JFFQ+GG Etobicoke, Toronto, ON",
+        "global_code": "87M2JFFQ+GG"
+      },
+      "price_level": 2,
+      "rating": 4.7,
+      "reference": "ChIJ9WuyfjI2K4gRzy9pQT9GzUs",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 632
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "384 Royal York Rd, Etobicoke, ON M8Y 2R3, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6188015,
+          "lng": -79.49967319999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.62017182989272,
+            "lng": -79.49822617010727
+          },
+          "southwest": {
+            "lat": 43.61747217010727,
+            "lng": -79.50092582989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "BreakFast Room",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2993,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101101741951706506184\">Breakfast Room</a>"
+          ],
+          "photo_reference": "CmRaAAAAoZTOrg2DuQPd9Q_-1Rc6jdQmhFhekKM-vcX5Toye18sgRLHPz0X0kIhGuJt0yG5qNp7HcIRjBIs0E6kICYXOq60hIBTY3u_1Sc4GG3gKjIEeg1f4oo-n5lQDnXdiNcGEEhAMF774YmWowBCJwyrloU4BGhQL4AwgFzYPwmDyxpQ9GmrzrlBUqw",
+          "width": 3824
+        }
+      ],
+      "place_id": "ChIJ1_fDayQ2K4gR3rneNJ04K2U",
+      "plus_code": {
+        "compound_code": "JG92+G4 Etobicoke, Toronto, ON",
+        "global_code": "87M2JG92+G4"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJ1_fDayQ2K4gR3rneNJ04K2U",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 298
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "4R9, 1086 Islington Ave, Etobicoke, ON M8Z 4S1, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.63613,
+          "lng": -79.520546
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.63748372989272,
+            "lng": -79.51917302010726
+          },
+          "southwest": {
+            "lat": 43.63478407010727,
+            "lng": -79.52187267989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "High Seas Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2565,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115827685810570210604\">Rosemary Mah</a>"
+          ],
+          "photo_reference": "CmRaAAAAruoGk_aCoFJOJuIJBIK0leeGW2yxjOetoFF1Ma9BxKiZkGM_Ub7MFkF9OGDJr69oVy_y80VmbU2Bcw6LwM2sccmMWQWByHTuoe0l4pWUr-6TJ_uuhuSNqUmrExwGIvDMEhD0efgHZIJaQydd1lfnWLDHGhRPzL-T85vqqWFgEVLcNELoMpStGA",
+          "width": 3782
+        }
+      ],
+      "place_id": "ChIJNchrOrQ3K4gRSIUJgVlTEt4",
+      "plus_code": {
+        "compound_code": "JFPH+FQ Etobicoke, Toronto, ON",
+        "global_code": "87M2JFPH+FQ"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJNchrOrQ3K4gRSIUJgVlTEt4",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 151
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1596 The Queensway, Etobicoke, ON M8Z 1V1, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.617709,
+          "lng": -79.542885
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.61907482989272,
+            "lng": -79.54145697010726
+          },
+          "southwest": {
+            "lat": 43.61637517010728,
+            "lng": -79.54415662989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "The Grille on the Queensway",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109778876157805436399\">Gloria Chai</a>"
+          ],
+          "photo_reference": "CmRaAAAAJ0VcT_wlfmSzda1Y4ax5aKjsMU0R26gO2evWL6RifRyXDv2tsjBHhCv4iIXH1oilgERsh6HiKzwAEP_HMlr-qdGQyJJquWOO-D1eOluQhOl7kn51ziDXOkaCeEwOyyzTEhAFLMTtNq7-XoRnJ4_22QHLGhQ_BIdyCYCAFVRWq4d9pcBEvHqWNg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJd4pJ7uE3K4gRz1yLKG_qruA",
+      "plus_code": {
+        "compound_code": "JF94+3R Etobicoke, Toronto, ON",
+        "global_code": "87M2JF94+3R"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJd4pJ7uE3K4gRz1yLKG_qruA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2351
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1569 The Queensway, Etobicoke, ON M8Z 1T8, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6176661,
+          "lng": -79.5395988
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.61903172989272,
+            "lng": -79.53819327010727
+          },
+          "southwest": {
+            "lat": 43.61633207010728,
+            "lng": -79.54089292989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Wendy's",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112107396735008416174\">Mike Jung</a>"
+          ],
+          "photo_reference": "CmRaAAAAqJI_rFAHOD6JfIdEyGEl1A_C6zXJnjjSEvqlwLOPF9aUqwj4UV9X2rxad9e3HMClSXn1txWVYr5S1pB54OGyy-KEAIeoIJDYdAfLLk4udMFFiAqufbhLVdS8rB6NXxNyEhCVSTjVihK8bRoZJLIEWr7CGhR1d3FCmCTlSfjQVkyixvT0y-9u0w",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJE4ART-A3K4gRv2YDfIQJJFI",
+      "plus_code": {
+        "compound_code": "JF96+35 Etobicoke, Toronto, ON",
+        "global_code": "87M2JF96+35"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJE4ART-A3K4gRv2YDfIQJJFI",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 758
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "570 Kipling Ave, Etobicoke, ON M8Z 5E7, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.61534959999999,
+          "lng": -79.5248335
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.61665872989271,
+            "lng": -79.52346452010728
+          },
+          "southwest": {
+            "lat": 43.61395907010727,
+            "lng": -79.52616417989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Wendy's",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117975127878352210255\">Shenan Hawkins</a>"
+          ],
+          "photo_reference": "CmRaAAAAotfVn2mCxX4BhB0h0YEm5MGAe6wlKwKmLveUYnHL4sjKgAxXMbeeJ7z8FXKuyiuxPjmuCgZ0y387b2RaJ2TO5VWnypqpOUIS75uk1NFw2bg_xcVDT2dRzBGN7OBC_AB7EhABXpYOxUZ_r_BE5gO_LuygGhQYrzSiCBV_EUwlULsyupKtuiuatA",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJlwaOxtc3K4gRs5HbDV5tyqE",
+      "plus_code": {
+        "compound_code": "JF8G+43 Etobicoke, Toronto, ON",
+        "global_code": "87M2JF8G+43"
+      },
+      "price_level": 1,
+      "rating": 3.7,
+      "reference": "ChIJlwaOxtc3K4gRs5HbDV5tyqE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 870
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "6660 Kennedy Rd #1, Mississauga, ON L5T 2M9, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6484978,
+          "lng": -79.6860962
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.64987887989272,
+            "lng": -79.68469837010727
+          },
+          "southwest": {
+            "lat": 43.64717922010728,
+            "lng": -79.68739802989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Ricks Good Eats",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJp2F_03I_K4gROOe2G6u6Ov0",
+      "plus_code": {
+        "compound_code": "J8X7+9H Mississauga, Ontario",
+        "global_code": "87M2J8X7+9H"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJp2F_03I_K4gROOe2G6u6Ov0",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1938
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "4032 Confederation Pkwy, Mississauga, ON L5B 0G4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.58558379999999,
+          "lng": -79.64591709999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.58699912989273,
+            "lng": -79.64447427010727
+          },
+          "southwest": {
+            "lat": 43.58429947010728,
+            "lng": -79.64717392989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Smoke's Poutinerie",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJg1AZy9VGK4gR7R8R9ltRRIw",
+      "plus_code": {
+        "compound_code": "H9P3+6J Mississauga, Ontario",
+        "global_code": "87M2H9P3+6J"
+      },
+      "rating": 3.7,
+      "reference": "ChIJg1AZy9VGK4gR7R8R9ltRRIw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 392
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "236 Queen St S, Mississauga, ON L5M 1L5, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.580375,
+          "lng": -79.7123361
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.58179487989272,
+            "lng": -79.71088692010728
+          },
+          "southwest": {
+            "lat": 43.57909522010728,
+            "lng": -79.71358657989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Burger Legend",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJl3PYWblBK4gRTZzo5Kc7U5Y",
+      "plus_code": {
+        "compound_code": "H7JQ+53 Mississauga, Ontario",
+        "global_code": "87M2H7JQ+53"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJl3PYWblBK4gRTZzo5Kc7U5Y",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 589
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "5030 Maingate Dr #11, Mississauga, ON L4W 1N5, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6298789,
+          "lng": -79.6278457
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.63109627989272,
+            "lng": -79.62654552010727
+          },
+          "southwest": {
+            "lat": 43.62839662010727,
+            "lng": -79.62924517989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "On The Bun Burgers",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ52j4opg4K4gRn18DuBdHGLQ",
+      "plus_code": {
+        "compound_code": "J9HC+XV Mississauga, Ontario",
+        "global_code": "87M2J9HC+XV"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJ52j4opg4K4gRn18DuBdHGLQ",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 943
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1133 Dundas St E, Mississauga, ON L4Y 2C3, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.60415709999999,
+          "lng": -79.59036809999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.60537442989272,
+            "lng": -79.58878952010727
+          },
+          "southwest": {
+            "lat": 43.60267477010728,
+            "lng": -79.59148917989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Holy Smokez BBQ Sandwiches",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ0fz2XZZHK4gRTuRRosJqPIk",
+      "plus_code": {
+        "compound_code": "JC35+MV Mississauga, Ontario",
+        "global_code": "87M2JC35+MV"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJ0fz2XZZHK4gRTuRRosJqPIk",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 389
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "4188 Living Arts Dr #1, Mississauga, ON L5B 0H7, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.5897787,
+          "lng": -79.6477584
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.59117317989272,
+            "lng": -79.64634752010728
+          },
+          "southwest": {
+            "lat": 43.58847352010728,
+            "lng": -79.64904717989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Union Burger",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJDU87DSpHK4gRMGL1v1C9tBU",
+      "plus_code": {
+        "compound_code": "H9Q2+WV Mississauga, Ontario",
+        "global_code": "87M2H9Q2+WV"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJDU87DSpHK4gRMGL1v1C9tBU",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 859
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "5130 Dixie Rd, Mississauga, ON L4W 1C9, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6370724,
+          "lng": -79.6236973
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.63839092989273,
+            "lng": -79.62226352010728
+          },
+          "southwest": {
+            "lat": 43.63569127010728,
+            "lng": -79.62496317989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Burger Factory",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ8R7bgpY4K4gRYjqHge_ecHQ",
+      "plus_code": {
+        "compound_code": "J9PG+RG Mississauga, Ontario",
+        "global_code": "87M2J9PG+RG"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJ8R7bgpY4K4gRYjqHge_ecHQ",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2437
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "114 Lakeshore Rd E Unit 4, Mississauga, ON L5G 1C9, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.5542891,
+          "lng": -79.58315929999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.55556842989272,
+            "lng": -79.58168197010727
+          },
+          "southwest": {
+            "lat": 43.55286877010728,
+            "lng": -79.58438162989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Philthy Philly's",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJWyzs63JGK4gR_r4xEIiyYI8",
+      "plus_code": {
+        "compound_code": "HC38+PP Mississauga, Ontario",
+        "global_code": "87M2HC38+PP"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJWyzs63JGK4gR_r4xEIiyYI8",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 97
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "129 Lakeshore Rd E, Mississauga, ON L5G 1E5, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.5544705,
+          "lng": -79.5823233
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.55586417989272,
+            "lng": -79.58105627010728
+          },
+          "southwest": {
+            "lat": 43.55316452010727,
+            "lng": -79.58375592989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "The Burger's Priest",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJL9MEsRJGK4gRbBljLQmDQA0",
+      "plus_code": {
+        "compound_code": "HC39+Q3 Mississauga, Ontario",
+        "global_code": "87M2HC39+Q3"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJL9MEsRJGK4gRbBljLQmDQA0",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1033
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1706 Dundas St E, Mississauga, ON L4X 1L7, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.615929,
+          "lng": -79.57585399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.61740107989272,
+            "lng": -79.57449812010728
+          },
+          "southwest": {
+            "lat": 43.61470142010727,
+            "lng": -79.57719777989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "C & Dubbs Hamburgers Inc",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJqUd2v_ZHK4gRl0-Q3MHKsIo",
+      "plus_code": {
+        "compound_code": "JC8F+9M Mississauga, Ontario",
+        "global_code": "87M2JC8F+9M"
+      },
+      "price_level": 1,
+      "rating": 4.5,
+      "reference": "ChIJqUd2v_ZHK4gRl0-Q3MHKsIo",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 662
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "3021 Argentia Rd, Mississauga, ON L5N 8P7, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.5966527,
+          "lng": -79.7853398
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.59798607989272,
+            "lng": -79.78416072010728
+          },
+          "southwest": {
+            "lat": 43.59528642010728,
+            "lng": -79.78686037989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "South St. Burger",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJtegkz1RqK4gRJk5D3JqN9Yo",
+      "plus_code": {
+        "compound_code": "H6W7+MV Mississauga, Ontario",
+        "global_code": "87M2H6W7+MV"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJtegkz1RqK4gRJk5D3JqN9Yo",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 347
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "formatted_address": "6301 Silver Dart Dr, Mississauga, ON L5P 1B2, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6781751,
+          "lng": -79.61183
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.67952492989272,
+            "lng": -79.61048017010727
+          },
+          "southwest": {
+            "lat": 43.67682527010728,
+            "lng": -79.61317982989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Wahlburgers",
+      "permanently_closed": true,
+      "place_id": "ChIJa5rWkQw5K4gRLpG86-LnT2Y",
+      "plus_code": {
+        "compound_code": "M9HQ+77 Mississauga, Ontario",
+        "global_code": "87M2M9HQ+77"
+      },
+      "price_level": 2,
+      "rating": 3.8,
+      "reference": "ChIJa5rWkQw5K4gRLpG86-LnT2Y",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2021
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "45 Queen St N, Mississauga, ON L5N 1A2, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.5898414,
+          "lng": -79.7231846
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.59096077989273,
+            "lng": -79.72171032010728
+          },
+          "southwest": {
+            "lat": 43.58826112010728,
+            "lng": -79.72440997989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Queen Street Burger and Taters",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJj5surc5BK4gRKlUo5B-3r8g",
+      "plus_code": {
+        "compound_code": "H7QG+WP Mississauga, Ontario",
+        "global_code": "87M2H7QG+WP"
+      },
+      "rating": 4.6,
+      "reference": "ChIJj5surc5BK4gRKlUo5B-3r8g",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 128
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "154 Queen St S, Mississauga, ON L5M 2P4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.582073,
+          "lng": -79.715567
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.58348377989272,
+            "lng": -79.71425287010727
+          },
+          "southwest": {
+            "lat": 43.58078412010727,
+            "lng": -79.71695252989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Meltwich Food Co.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ0_XVpMlBK4gRh8G7P9buEiQ",
+      "plus_code": {
+        "compound_code": "H7JM+RQ Mississauga, Ontario",
+        "global_code": "87M2H7JM+RQ"
+      },
+      "rating": 3.8,
+      "reference": "ChIJ0_XVpMlBK4gRh8G7P9buEiQ",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 230
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "6039 Erin Mills Pkwy, Mississauga, ON L5N 0G5, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.5797567,
+          "lng": -79.7343171
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.58150902989272,
+            "lng": -79.73360275
+          },
+          "southwest": {
+            "lat": 43.57880937010728,
+            "lng": -79.73646015
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Gladiator Burger & Steak",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJV-oQi0VBK4gRoVc8zd7SpMw",
+      "plus_code": {
+        "compound_code": "H7H8+W7 Mississauga, Ontario",
+        "global_code": "87M2H7H8+W7"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJV-oQi0VBK4gRoVc8zd7SpMw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2902
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "3-5955 Latimer Dr, Mississauga, ON L5V 0B7, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6091537,
+          "lng": -79.6971298
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.61046742989272,
+            "lng": -79.69582832010728
+          },
+          "southwest": {
+            "lat": 43.60776777010727,
+            "lng": -79.69852797989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Top Gun burger",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ9VITCyZBK4gRgtARpsrTg1Q",
+      "plus_code": {
+        "compound_code": "J853+M4 Mississauga, Ontario",
+        "global_code": "87M2J853+M4"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ9VITCyZBK4gRgtARpsrTg1Q",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 752
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "6020 Hurontario St, Mississauga, ON L5R 4B3, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.626209,
+          "lng": -79.680148
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.62765562989272,
+            "lng": -79.67866942010728
+          },
+          "southwest": {
+            "lat": 43.62495597010728,
+            "lng": -79.68136907989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "The Fire Pit",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJt2G1UpxAK4gRbxNocqR0L6o",
+      "plus_code": {
+        "compound_code": "J8G9+FW Mississauga, Ontario",
+        "global_code": "87M2J8G9+FW"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJt2G1UpxAK4gRbxNocqR0L6o",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 564
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "6445 Airport Rd, Mississauga, ON L4V 1E4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6930643,
+          "lng": -79.6273595
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.69430572989271,
+            "lng": -79.62616522010728
+          },
+          "southwest": {
+            "lat": 43.69160607010727,
+            "lng": -79.62886487989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ZET'S Restaurant Airport",
+      "opening_hours": {},
+      "place_id": "ChIJda4bgWc5K4gReKmESQfLMcY",
+      "plus_code": {
+        "compound_code": "M9VF+63 Mississauga, Ontario",
+        "global_code": "87M2M9VF+63"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJda4bgWc5K4gReKmESQfLMcY",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6028
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "100 City Centre Dr, Square One Dr, Mississauga, ON L5B 2C9, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.5930784,
+          "lng": -79.64249110000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.59496517989272,
+            "lng": -79.64133742010728
+          },
+          "southwest": {
+            "lat": 43.59226552010728,
+            "lng": -79.64403707989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Big Smoke Burger",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ71ndFhhHK4gROFok2M72zE0",
+      "plus_code": {
+        "compound_code": "H9V5+62 Mississauga, Ontario",
+        "global_code": "87M2H9V5+62"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJ71ndFhhHK4gROFok2M72zE0",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 73
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "5027 Hurontario St, Mississauga, ON L4Z 3X6, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.60740029999999,
+          "lng": -79.6530109
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.60882362989272,
+            "lng": -79.65158012010728
+          },
+          "southwest": {
+            "lat": 43.60612397010727,
+            "lng": -79.65427977989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "The Burger's Priest",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJ3fMZ451BK4gR0mCWCGulrmw",
+      "plus_code": {
+        "compound_code": "J84W+XQ Mississauga, Ontario",
+        "global_code": "87M2J84W+XQ"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJ3fMZ451BK4gR0mCWCGulrmw",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 827
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "3 Chelwood Rd, Scarborough, ON M1K 2K5, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7253556,
+          "lng": -79.27584999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.72671687989272,
+            "lng": -79.27450497010727
+          },
+          "southwest": {
+            "lat": 43.72401722010727,
+            "lng": -79.27720462989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "The 6 Burger Bar",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 724,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109281991548785966011\">The 6 Burger Bar</a>"
+          ],
+          "photo_reference": "CmRaAAAAoDBrRXBw6yAyvDQ8yKUYqsfVyCKzdJFDTO1pSRHer9FtaTQWJ7sh6dRYiipEZZRJRuUtMOzae-vIpG1wgjX-VlDJepr8M-LApIzVXgIAbYd5gK8w_WlkRwJefHXKteT2EhDJQv7sdiaF18uxBoS7hcX0GhRrHHRB332HyasGDo0SOqYCON_HbQ",
+          "width": 995
+        }
+      ],
+      "place_id": "ChIJfZe3JhPO1IkR7UTcL80ev_I",
+      "plus_code": {
+        "compound_code": "PPGF+4M Scarborough, Toronto, ON",
+        "global_code": "87M2PPGF+4M"
+      },
+      "rating": 4.6,
+      "reference": "ChIJfZe3JhPO1IkR7UTcL80ev_I",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 321
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1033 Markham Rd, Toronto, ON M1H 2G1, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7740605,
+          "lng": -79.230389
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.77538807989272,
+            "lng": -79.22909332010728
+          },
+          "southwest": {
+            "lat": 43.77268842010728,
+            "lng": -79.23179297989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "The Real McCoy",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104724175517443569515\">Sangho Shin</a>"
+          ],
+          "photo_reference": "CmRaAAAADjVo0WSMik5kxScKy4XSMLFRRss-cBr7u7aMSJ8UO62nsBcZHHmtEVxFfdPEqsenuwNVgmLHDOHp71qLd4KNJYZ-BN78lj0eh6Bb-oXniA2RGs4xf4m83SDkF1uXTBOWEhCxC5NFBHS-itYCtSYpAGinGhQeSX6BvNs8xNdG6c9Pksob6Zo8zg",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJBQBqCVnQ1IkR33DiwY5Xeps",
+      "plus_code": {
+        "compound_code": "QQF9+JR Toronto, Ontario",
+        "global_code": "87M2QQF9+JR"
+      },
+      "price_level": 1,
+      "rating": 4.6,
+      "reference": "ChIJBQBqCVnQ1IkR33DiwY5Xeps",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1151
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "2570 Birchmount Rd, Scarborough, ON M1T 2M5, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.78958859999999,
+          "lng": -79.30241339999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.79090427989272,
+            "lng": -79.30099557010728
+          },
+          "southwest": {
+            "lat": 43.78820462010728,
+            "lng": -79.30369522989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Chris Jerk",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108045364771531573797\">Alvin Yuhalogarasan</a>"
+          ],
+          "photo_reference": "CmRaAAAAdJ6RvcYIMKqUmKJsaa7B8Kumurr80XpIWvWL_QEoYMquhzPcFZOJrLcf0pibNWS9eB1qMOpPQgjVmbAjBkXSby_gDQqHPSHzyHsXf-lNjthxEBVjH_nclo5KUIKolBkDEhA53fW9cVrHfXPhrpM6xDcUGhRrK3jGTHsSlhjQrhuNyp8hcNeNhw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJS1HeGM7T1IkR49_PD388HCY",
+      "plus_code": {
+        "compound_code": "QMQX+R2 Scarborough, Toronto, ON",
+        "global_code": "87M2QMQX+R2"
+      },
+      "price_level": 1,
+      "rating": 4.6,
+      "reference": "ChIJS1HeGM7T1IkR49_PD388HCY",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2040
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "2851 Kingston Rd, Scarborough, ON M1M 1N2, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.721624,
+          "lng": -79.23615199999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.72301142989272,
+            "lng": -79.23486192010728
+          },
+          "southwest": {
+            "lat": 43.72031177010728,
+            "lng": -79.23756157989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Big Boy's Burgers",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117858380675665248593\">Louisa Tan</a>"
+          ],
+          "photo_reference": "CmRaAAAASmfYXo1FuyH09nR6EjNGe0EXq9q02ykvt3mg57rMbcjD-EIPt81V9lqj_LJX6rICyRaFQsK1iin5LkEfeSajmsuqws25X8SqPMqqoW3jnn30t0h5vPnMfqkkzCs1lFVaEhBTs_jPsRIJYrwhVVgLm7DpGhRjB2MKgc9i2t5IhLQITvj_4ZtsSA",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJoZX5NsjP1IkRf6c1LK73lYk",
+      "plus_code": {
+        "compound_code": "PQC7+JG Scarborough, Toronto, ON",
+        "global_code": "87M2PQC7+JG"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJoZX5NsjP1IkRf6c1LK73lYk",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 161
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "480 Danforth Rd, Scarborough, ON M1K 1C7, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7086246,
+          "lng": -79.2676998
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.70989667989273,
+            "lng": -79.26611902010728
+          },
+          "southwest": {
+            "lat": 43.70719702010729,
+            "lng": -79.26881867989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Mama's Boys Burgers",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2992,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110248298689764082301\">Minita MacDonald</a>"
+          ],
+          "photo_reference": "CmRaAAAAbEVO710N1SXsSpKBbueMFsoloq0ITz4lNZLsAlqJek4U6UNhzzUJazchpCZct3AaEw2P8U9vm18ihyafloVrhN3ZHBkc_N_GF-X1EF9o5DJdyqVmfrg2xgq2Ue8BqTVHEhDA2kzdsXkYF3Qw25Ah81BJGhSa4q6-N6iwfFLDQe-xZ_1Pzrbo_g",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJvfIBoGDO1IkRht7b7ki8i5A",
+      "plus_code": {
+        "compound_code": "PP5J+CW Scarborough, Toronto, ON",
+        "global_code": "87M2PP5J+CW"
+      },
+      "price_level": 1,
+      "rating": 4.5,
+      "reference": "ChIJvfIBoGDO1IkRht7b7ki8i5A",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1065
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "6109 Kingston Rd, Scarborough, ON M1C 1K5, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.783803,
+          "lng": -79.16829899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.78519422989272,
+            "lng": -79.16700487010726
+          },
+          "southwest": {
+            "lat": 43.78249457010727,
+            "lng": -79.16970452989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Shamrock Burgers",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109323956735594279580\">Vageetha Senevirathna</a>"
+          ],
+          "photo_reference": "CmRaAAAA97iN0HTUWP2WINqKDiA0a-rjb7LojYrnuadxx9TH_rgKgb4_T2ZUj_TobBCM9737z2Enp551qQ1U0L8c98B9wHQtYwF0_fC4LC2oM7F85-nzKn8fBz_aWLsbfUTG0cp-EhD6zF2BSR6CwPfmG0LCzZabGhTQDZ6ja74F8ns_9VHymEW1M4GRCA",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJUw3EsEXa1IkRKVkBcXyoixk",
+      "plus_code": {
+        "compound_code": "QRMJ+GM Scarborough, Toronto, ON",
+        "global_code": "87M2QRMJ+GM"
+      },
+      "rating": 4.3,
+      "reference": "ChIJUw3EsEXa1IkRKVkBcXyoixk",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 701
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1960 Lawrence Ave E, Scarborough, ON M1R 2Z1, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7449738,
+          "lng": -79.2978549
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.74623962989272,
+            "lng": -79.29687727010727
+          },
+          "southwest": {
+            "lat": 43.74353997010728,
+            "lng": -79.29957692989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Top Gun Burger",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106766719766176011530\">huda bilal</a>"
+          ],
+          "photo_reference": "CmRaAAAAfdelSuass-p3wtSY1L3ggQMIz_wPvhs7yiuJfDzQ1laqaeKY7Th9i93S_r_6R29f7NNRZOUr6G6vRW62unosR64zqzEoIM1jrsBHtz6hrG4e4stQTa40rjz6dicbWZ2TEhDJTObkES-FPSH_U66MKidyGhQq1-paVVFztdwg8-uOfm1Kwdm49g",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJfbHzi_jN1IkRUbdhu4zXqpY",
+      "plus_code": {
+        "compound_code": "PPV2+XV Scarborough, Toronto, ON",
+        "global_code": "87M2PPV2+XV"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJfbHzi_jN1IkRUbdhu4zXqpY",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1145
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "2761 Markham Rd a5, Scarborough, ON M1X 0A4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.8213223,
+          "lng": -79.2463374
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.82260042989272,
+            "lng": -79.24495567010729
+          },
+          "southwest": {
+            "lat": 43.81990077010727,
+            "lng": -79.24765532989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Showtime Bistro",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 7232,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109495132844365190258\">Priyanka Surve</a>"
+          ],
+          "photo_reference": "CmRaAAAADToNb9bEGJbzAeJHwrV6XgY0aLohxYDCmvchOlygPXi3-HkqCcw5eOGeAzb3Wzvq-bh_988u3LEF4MuZhtdKnNhm7J3Rb-UBOZN1z4y9-dS2s17EXQ3tEkhNzoK-bW2JEhA-U_cwyLJzqVtHI3yczcoBGhR_HvrevAtUxqCYKUcYpSzQFmbwuQ",
+          "width": 10732
+        }
+      ],
+      "place_id": "ChIJ18LOQ9bW1IkRu3lnDluqcR0",
+      "plus_code": {
+        "compound_code": "RQC3+GF Scarborough, Toronto, ON",
+        "global_code": "87M2RQC3+GF"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJ18LOQ9bW1IkRu3lnDluqcR0",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1006
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "2280 Lawrence Ave E, Scarborough, ON M1P 2P9, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.74937,
+          "lng": -79.277253
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.75065622989272,
+            "lng": -79.27577652010727
+          },
+          "southwest": {
+            "lat": 43.74795657010728,
+            "lng": -79.27847617989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Harry's Drive-In",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112944542195085418429\">John Parrott</a>"
+          ],
+          "photo_reference": "CmRaAAAASgWF4TsKnX_aK76rv7Kf5Er0gfnHywHadpCZKO1y42EKBng32tm0klY3oP-cHEzWBa_9KQmxR2KmNIGLdSNtxivOiBwzXr0zCemuMDWDS5H6xyso-2JBtr2RdiydFGn9EhADlpu3BUMq8x26dpiPWmTXGhTtxNSDEUREonmM0IRvCh5nw3wlsA",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJO3pilOTR1IkRajy6brKcHic",
+      "plus_code": {
+        "compound_code": "PPXF+P3 Scarborough, Toronto, ON",
+        "global_code": "87M2PPXF+P3"
+      },
+      "rating": 4.4,
+      "reference": "ChIJO3pilOTR1IkRajy6brKcHic",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 536
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1961 Lawrence Ave E #1, Scarborough, ON M1R 2Y8, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.74426380000001,
+          "lng": -79.2976754
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.74563052989272,
+            "lng": -79.29624467010728
+          },
+          "southwest": {
+            "lat": 43.74293087010728,
+            "lng": -79.29894432989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Mini Moes Burgers Fries and Funnel Cakes",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1620,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108382111654596505671\">Uzma (Batool) Jafri</a>"
+          ],
+          "photo_reference": "CmRaAAAAtbCUWODKGV6JB5cgCAWPrcBvqGbfzdCJET2aoLF7T0fO6GT5_Oh71qOq1YHsLPuMG8pEa0OJ9cTnAYr48smBz6yjJvba8n8qchFqMA_wC-3ZyiX0NSUFJ-hJX0iiyc0TEhCpiO7NQCx6oPELN3bktV8TGhQ1s9gYWdPy2md_8ZSfIrzjbfv99w",
+          "width": 1620
+        }
+      ],
+      "place_id": "ChIJZcax7fjN1IkRdvnXWzLqmrY",
+      "plus_code": {
+        "compound_code": "PPV2+PW Scarborough, Toronto, ON",
+        "global_code": "87M2PPV2+PW"
+      },
+      "rating": 4.1,
+      "reference": "ChIJZcax7fjN1IkRdvnXWzLqmrY",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1088
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1920 Ellesmere Rd, Scarborough, ON M1H 3G1, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.774935,
+          "lng": -79.241052
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.77627332989272,
+            "lng": -79.23976672010727
+          },
+          "southwest": {
+            "lat": 43.77357367010728,
+            "lng": -79.24246637989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Terry's Restaurant & Bar",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116001035726838358540\">Ryan Solana</a>"
+          ],
+          "photo_reference": "CmRaAAAA-RkCH53r4f5o6ruKlv6683YVBfrh1X4dGW5i-dWa7yAZyt-TanRmugTOCqe8EXZpTtUSHdKYsyHa54D3p2S3y04QXBeZnvpEDqUsettxpP8rJPlmS68iVisqNpnJ6HYcEhBmu4ZEll03W5egem16qzPlGhTFPLbQkavCdfi8goejjq-7jMLTCw",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJj9ibP1TQ1IkRUFBAbh6Okgo",
+      "plus_code": {
+        "compound_code": "QQF5+XH Scarborough, Toronto, ON",
+        "global_code": "87M2QQF5+XH"
+      },
+      "price_level": 1,
+      "rating": 4.6,
+      "reference": "ChIJj9ibP1TQ1IkRUFBAbh6Okgo",
+      "types": [
+        "restaurant",
+        "meal_takeaway",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 672
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1801 Lawrence Ave E #5, Scarborough, ON M1R 2X7, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.742478,
+          "lng": -79.3053453
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.74390722989272,
+            "lng": -79.30392247010727
+          },
+          "southwest": {
+            "lat": 43.74120757010727,
+            "lng": -79.30662212989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ASAP City",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115011697198218520852\">Reda Rahmani</a>"
+          ],
+          "photo_reference": "CmRaAAAAIZfb_J-wV2qqMcABVjMTezk1Cc3iCaEjmPcz7-ighWMEYe5n6QBYZnEzezBHU3rSagMpfRc3aKfr-S6HBWNi7yd1QLPWV_I7zSVJFqKW7zMVSunNQ0JJhOktaqjyTf00EhBNys3eJ1aB1NeszfpcWNCLGhTrUrUyGoGjo31T5f7RLmbrqR69bA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJgd7kw_bN1IkRSefi2gTpwIY",
+      "plus_code": {
+        "compound_code": "PMRV+XV Scarborough, Toronto, ON",
+        "global_code": "87M2PMRV+XV"
+      },
+      "rating": 4.4,
+      "reference": "ChIJgd7kw_bN1IkRSefi2gTpwIY",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 296
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "5631 Steeles Ave E #5, Scarborough, ON M1V 5P6, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.832319,
+          "lng": -79.2674467
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.83364807989272,
+            "lng": -79.26603512010726
+          },
+          "southwest": {
+            "lat": 43.83094842010727,
+            "lng": -79.26873477989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name": "SumiLicious Smoked Meat & Deli",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105844075391406287392\">A Google User</a>"
+          ],
+          "photo_reference": "CmRZAAAALtWRfqGec1vqhYzoJ-3RwFPR69NZAsqaKd3vnBr7TMqTJYl4hfRTC_mpm-_ZytK3gPNswv_lDg_5goJECZpwWWxpDzLflsjMg5tHXfrEnVAEp3kSxDqqtYrSqD8V_k6_EhCI3SSwPg7j2U8G7d8FPaz8GhRwVNEVq4OiEn_ppZDS1Y9_dyUjQA",
+          "width": 3600
+        }
+      ],
+      "place_id": "ChIJF-RXU8fW1IkRNs1xYblydhI",
+      "plus_code": {
+        "compound_code": "RPJM+W2 Scarborough, Toronto, ON",
+        "global_code": "87M2RPJM+W2"
+      },
+      "price_level": 1,
+      "rating": 4.7,
+      "reference": "ChIJF-RXU8fW1IkRNs1xYblydhI",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 1011
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1027 Markham Rd, Scarborough, ON M1H 2Y5, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7739579,
+          "lng": -79.2302242
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.77525817989273,
+            "lng": -79.22912402010726
+          },
+          "southwest": {
+            "lat": 43.77255852010728,
+            "lng": -79.23182367989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Chick N Delish",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110073168658211502335\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAk8ZWm2A5P46zh4ujG7XOYhaQ8snII2P1I6vaDhGV75gkoknOEH26AqmwTKTONevEstSSoZInQp1m3kF-3Pj8MJ7DjToxUgZxwFCV-55xs6kn-2jSvlso0DLMQvkuXj0KEhD9ILI6P88D-Udql0ugElI7GhRU9P745oFO9bhRczwo2dkOKTKVlg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ__8_EFnQ1IkRzgF5bvIIM1k",
+      "plus_code": {
+        "compound_code": "QQF9+HW Scarborough, Toronto, ON",
+        "global_code": "87M2QQF9+HW"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJ__8_EFnQ1IkRzgF5bvIIM1k",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 327
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "800 Warden Ave Building C, Scarborough, ON M1L 4T7, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7262837,
+          "lng": -79.2874403
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.72755642989272,
+            "lng": -79.28604602010728
+          },
+          "southwest": {
+            "lat": 43.72485677010727,
+            "lng": -79.28874567989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Five Guys",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105480982233147446478\">Ari Sooriya</a>"
+          ],
+          "photo_reference": "CmRaAAAAhTOOsb0kxlyUpyQFJICxeBKyoNWp7rChjh6IsBoYLOPjTp751ciraOSwqfcj5EyOAS5F7HA9cfAXaIE63yToVXUQsLrjJbs6XsgNl1zaWVBWfPfaSF0CvMKp81ZQEuOAEhD13VIKWgP2ubSNAcu_BUdHGhRE8XB5a2ujSdZ62xU25qNmXYJkYw",
+          "width": 2268
+        }
+      ],
+      "place_id": "ChIJjyGaPXXO1IkRx-kfuHiEl0A",
+      "plus_code": {
+        "compound_code": "PPG7+G2 Scarborough, Toronto, ON",
+        "global_code": "87M2PPG7+G2"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJjyGaPXXO1IkRx-kfuHiEl0A",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 914
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "2761 Markham Rd unit D31-32, Scarborough, ON M1X 0A4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.8210801,
+          "lng": -79.24614919999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.82240382989272,
+            "lng": -79.24467362010728
+          },
+          "southwest": {
+            "lat": 43.81970417010728,
+            "lng": -79.24737327989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Top Gun Burger",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106040470365024473886\">Kid Sid</a>"
+          ],
+          "photo_reference": "CmRaAAAAvytG8VQ-mB1rLt7RdlZA5bb-kwegmE8NZq4O2E8NT9_ARCXfER-itIYBzbqAxPLBMPH7FszqraO74PARNoq2JrEZCLGOXtNzRiJnzo9MiBC3lhPCfQa58pxuqZRajohHEhB4PVl6DnscjRKxuiotcR9-GhQc6bBT_z0i0K7RcupHjCu-eCq4-w",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJNWeveFTX1IkRjtnAl5DDles",
+      "plus_code": {
+        "compound_code": "RQC3+CG Scarborough, Toronto, ON",
+        "global_code": "87M2RQC3+CG"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJNWeveFTX1IkRjtnAl5DDles",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 750
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Toronto Zoo, 2000 Meadowvale Rd, Scarborough, ON M1B 5K7, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.8206783,
+          "lng": -79.18251599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.82202812989272,
+            "lng": -79.18116617010728
+          },
+          "southwest": {
+            "lat": 43.81932847010728,
+            "lng": -79.18386582989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Smoke's Poutinerie",
+      "place_id": "ChIJW-7P8UDZ1IkRGY9F8hBD7to",
+      "plus_code": {
+        "compound_code": "RRC8+7X Scarborough, Toronto, ON",
+        "global_code": "87M2RRC8+7X"
+      },
+      "rating": 0,
+      "reference": "ChIJW-7P8UDZ1IkRGY9F8hBD7to",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "6015 Steeles Ave E Unit CRU 103, Scarborough, ON M1V 5P7, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.8356303,
+          "lng": -79.2538902
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.83695662989273,
+            "lng": -79.25244717010727
+          },
+          "southwest": {
+            "lat": 43.83425697010728,
+            "lng": -79.25514682989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Hero Certified Burgers",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102545294634851773987\">Danish Ashraf</a>"
+          ],
+          "photo_reference": "CmRaAAAAEFv6PNheybvv1R6RGZtGI5TYYlH8LglQXYHM-1wX1Sc5hwKxKaaIdFcId6xwochGAs_xPbjtiTEtSaLhCj2co5bP_3cxpl2zFW-ioA3-k6S_ibMRVzTOv2iD7anH0tGPEhAz6VSI9UymbBlVJnVvIcQdGhRwdsao1n11YfBXc4lZcd7l-ISchA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJk9TxYufW1IkRPTFhtiJCxRI",
+      "plus_code": {
+        "compound_code": "RPPW+7C Scarborough, Toronto, ON",
+        "global_code": "87M2RPPW+7C"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJk9TxYufW1IkRPTFhtiJCxRI",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 268
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "30 Dean Park Rd, Scarborough, ON M1B 3G9, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.8036898,
+          "lng": -79.1692721
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.80505622989273,
+            "lng": -79.16786787010727
+          },
+          "southwest": {
+            "lat": 43.80235657010729,
+            "lng": -79.17056752989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Paul's Breakfast & Burgers",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2301,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105836995347505158361\">Lino Nathan</a>"
+          ],
+          "photo_reference": "CmRaAAAA9y0QqK-YR-7sHFy0UD-Zdb4UlEDTkXPjQ8QG-kD-BnmwfHzCNZsYhtaKLBtEaDYWJOuQ9siE8TdeoPrKXvX8ujHEPEPXn7IF5sYL1XhyRS7GGKpOB8imKJNWIern7wIZEhAMTB9N1pSI0JhVood1VqBAGhQznUpft7kgo7jvUQ0VxGfi0S92kw",
+          "width": 3481
+        }
+      ],
+      "place_id": "ChIJ2ygGMiTa1IkRXpyIED9ug0M",
+      "plus_code": {
+        "compound_code": "RR3J+F7 Scarborough, Toronto, ON",
+        "global_code": "87M2RR3J+F7"
+      },
+      "price_level": 1,
+      "rating": 4.7,
+      "reference": "ChIJ2ygGMiTa1IkRXpyIED9ug0M",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 190
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "2088 Lawrence Ave E, Scarborough, ON M1R 2Z5, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7459518,
+          "lng": -79.2926554
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.74735322989272,
+            "lng": -79.29132742010728
+          },
+          "southwest": {
+            "lat": 43.74465357010727,
+            "lng": -79.29402707989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "M&CO. Burgers",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109018253756648555483\">miqshclub</a>"
+          ],
+          "photo_reference": "CmRaAAAAoBlvXfo4YSZGBc_1ue3137ap_MZuBk-NjqGpCPAjKfCR1w8F8kaIv3s8xCqU5qIm9K-VtOLDUCxxZKvuBOP1BE_YE6s9jDXmaxvg1FVNxImSx0liBHq0IN3zHn6X1Zj_EhCL2b6_5YfiWgHqHVhJ9x_ZGhSAafozeB44EgNLuEGiNSpau16mFQ",
+          "width": 5504
+        }
+      ],
+      "place_id": "ChIJjaaLfKPT1IkRX2AUWRqUWfc",
+      "plus_code": {
+        "compound_code": "PPW4+9W Scarborough, Toronto, ON",
+        "global_code": "87M2PPW4+9W"
+      },
+      "price_level": 1,
+      "rating": 4.5,
+      "reference": "ChIJjaaLfKPT1IkRX2AUWRqUWfc",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 483
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "4716 Yonge St, North York, ON M2N 5M4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7593403,
+          "lng": -79.4107932
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.76069942989272,
+            "lng": -79.40937712010728
+          },
+          "southwest": {
+            "lat": 43.75799977010728,
+            "lng": -79.41207677989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Smoke's Poutinerie",
+      "photos": [
+        {
+          "height": 3648,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114331919870051800179\">Hanako M.</a>"
+          ],
+          "photo_reference": "CmRaAAAAONnyW1aalQOxZX_u_RsLIBhMAQexQs10MgHH3P_p23icBLbz61LLAmbvH5kv6Jhc5Y4ksEJMPYe-Yd9ak_kD30bTJL11arpiVJaTKrOG3uKffGB_7bZCM5U30IeGnzliEhCfb9aTBTX6m2zw-fNJSmaoGhSmj-FinYmMq2KmfXZOfSbapcLfqA",
+          "width": 5472
+        }
+      ],
+      "place_id": "ChIJHwZjpGMtK4gRBQN5kNRUaJM",
+      "plus_code": {
+        "compound_code": "QH5Q+PM North York, Toronto, ON",
+        "global_code": "87M2QH5Q+PM"
+      },
+      "rating": 3.5,
+      "reference": "ChIJHwZjpGMtK4gRBQN5kNRUaJM",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 252
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "730 Wilson Ave, North York, ON M3K 1E2, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7315841,
+          "lng": -79.46373059999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.73281987989272,
+            "lng": -79.46233132010728
+          },
+          "southwest": {
+            "lat": 43.73012022010727,
+            "lng": -79.46503097989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "The Enchanted Poutinerie",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2184,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104466477607910733230\">Duy T</a>"
+          ],
+          "photo_reference": "CmRZAAAAGp9tH_9lW_SJD4lVb8z5Bq90Vjx3aVS8YNEGBB1vrOfGIMuNLPJgsewrhjXsOIl7n-MIatIm-9I1bjgElHqw7tHPiOiRIUlue6kmq61B5rK8GzZo0-dC6FvAGnTyh1XQEhDhFN9K8XVtEzJtCzwC6kB-GhQU9iWDs3kPkzSSZZ18_LRY49r-pg",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJs06oAkUzK4gRkOfjTud7_zs",
+      "plus_code": {
+        "compound_code": "PGJP+JG North York, Toronto, ON",
+        "global_code": "87M2PGJP+JG"
+      },
+      "price_level": 2,
+      "rating": 4.8,
+      "reference": "ChIJs06oAkUzK4gRkOfjTud7_zs",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 293
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "832 Sheppard Ave W, North York, ON M3H 2T1, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7531289,
+          "lng": -79.4517238
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.75428852989272,
+            "lng": -79.45031467010728
+          },
+          "southwest": {
+            "lat": 43.75158887010728,
+            "lng": -79.45301432989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Grill Gate",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109519457741875617589\">Babak Khairi</a>"
+          ],
+          "photo_reference": "CmRaAAAAKzQ-tbaE0dXTjnT3CuRiXkjw5vwDLHKnZ-z-_ZkOBf4C0mDslNG_sO5Vljc2wr8CNGyGZDsbahyve29h9--wSuuPzff6lCmnuu992Js3S_o6euxqZqj6NFrPm7z5I_v2EhCrhkNfhT1SUjYaLkCpM80lGhRNUU62FI3DfAOwYn_cyz3jR1bPuw",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJAQCQTgwyK4gR3IiWe4K8AcI",
+      "plus_code": {
+        "compound_code": "QG3X+78 North York, Toronto, ON",
+        "global_code": "87M2QG3X+78"
+      },
+      "price_level": 1,
+      "rating": 4.8,
+      "reference": "ChIJAQCQTgwyK4gR3IiWe4K8AcI",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 793
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "799 York Mills Rd, North York, ON M3B 1X6, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7526892,
+          "lng": -79.35944549999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.75404662989272,
+            "lng": -79.35816427010728
+          },
+          "southwest": {
+            "lat": 43.75134697010727,
+            "lng": -79.36086392989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Big Smoke Burger",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115380878919579049530\">Lawrence Lam</a>"
+          ],
+          "photo_reference": "CmRaAAAA7rzERJRZTSBTMSAUv9smEGWJk4HAHbnGrr3vGeMJnvFg4dsgM2JrI3jdjMwytnTljiBX8BnOXdDbsCE9vkHDJx89kQLZg5PSfO_EaHw1CjpsA2w9rML1VpRVPt_vPCV2EhDm1RRXe-r7iEy60Ku7aZ14GhTIJeWM7x_imNZjiaacU0OaO9CWrA",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJ5YmsOKDS1IkRA2cQn-o3wMk",
+      "plus_code": {
+        "compound_code": "QJ3R+36 North York, Toronto, ON",
+        "global_code": "87M2QJ3R+36"
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "ChIJ5YmsOKDS1IkRA2cQn-o3wMk",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 636
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "4698 Yonge St, North York, ON M2N 5M4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.759179,
+          "lng": -79.410775
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.76055292989272,
+            "lng": -79.40926202010729
+          },
+          "southwest": {
+            "lat": 43.75785327010728,
+            "lng": -79.41196167989274
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Hero Certified Burgers",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104410494499122923684\">Rebecca JJ Candy</a>"
+          ],
+          "photo_reference": "CmRaAAAAQgAYbrz1BfAXInu96wqNsg8UzkRIPiTY3OGUcg66-254AYWgKuw2m4TJ9Uhr-a6g-QrS1QbrJcSzeEaB4KlRSyshoXIWXf2l8dguPjrEZ1H-J7Qi08XZd-HctuN8vzCbEhCUp6svwdKp8sbTKDbenLy_GhTdybtkOziHiha2FfnhQhsoia0_lw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJOZGJumMtK4gR_RFL4sUwajM",
+      "plus_code": {
+        "compound_code": "QH5Q+MM North York, Toronto, ON",
+        "global_code": "87M2QH5Q+MM"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJOZGJumMtK4gR_RFL4sUwajM",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 760
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Shopping Centre, 3401 Dufferin St, North York, ON M6A 2T9, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7251083,
+          "lng": -79.45280869999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.72773479999999,
+            "lng": -79.45072775000001
+          },
+          "southwest": {
+            "lat": 43.72423280000001,
+            "lng": -79.45350234999998
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Big Smoke Burger",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104499353783989153071\">Saar Saleem</a>"
+          ],
+          "photo_reference": "CmRaAAAAZAo1Kq8mRowsSX-XJhtImzcE5sxNjoK2kE3RTRU6CZEBxjk6-QICWc1Uq8aW64Ux-I-KNHEYmtHfzqo6mXZXaPytiE7zuBKxGRLvvS6Coxb5Lowtupzs9eIR_A9CYGLqEhAAd0IeDZAGR2K484CbYvEzGhQByg4QHqFH-9dLGYGoLuBQQZWBWw",
+          "width": 2268
+        }
+      ],
+      "place_id": "ChIJowGNWFczK4gRGdLPMc_baRU",
+      "plus_code": {
+        "compound_code": "PGGW+2V North York, Toronto, ON",
+        "global_code": "87M2PGGW+2V"
+      },
+      "price_level": 2,
+      "rating": 3.6,
+      "reference": "ChIJowGNWFczK4gRGdLPMc_baRU",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 234
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "3280 Dufferin St, Toronto, ON M6A 2T5, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7207131,
+          "lng": -79.4566732
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.72218237989271,
+            "lng": -79.45537542010729
+          },
+          "southwest": {
+            "lat": 43.71948272010727,
+            "lng": -79.45807507989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "The Burger's Priest",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103763131536147326576\">Michael E</a>"
+          ],
+          "photo_reference": "CmRaAAAAvAkTbv5Y9xpMk7h63_ZYUEwGCtZob1-e4upbgIaRvneoSzVhJrJbL4MfzE3w_K1NpdTLx2fA2d5A-l_zxveBXctdxfjNCC3AzHdqn__vPzqdW7RP0kcndm99z3xJ5JB_EhCTy-zprYgDSYS0EnQzgKWpGhQZ1Rn-Gv48W-0_g2D13HoJoSKWHA",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJgUip48wzK4gR_Pw9OSbB-YM",
+      "plus_code": {
+        "compound_code": "PGCV+78 Toronto, Ontario",
+        "global_code": "87M2PGCV+78"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJgUip48wzK4gR_Pw9OSbB-YM",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1438
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1926 Weston Rd, Toronto, ON M9N 1W5, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.70039630000001,
+          "lng": -79.5175812
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.70181652989273,
+            "lng": -79.51619402010728
+          },
+          "southwest": {
+            "lat": 43.69911687010728,
+            "lng": -79.51889367989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "ZEAL Burgers",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110190465117426716936\">Michael Zaghloul</a>"
+          ],
+          "photo_reference": "CmRaAAAAxdS3cIkD1vusJLQrnGUzjl_ljnMPbS4Kv43J8k0b9JfoTbkstyZfLrinV82Gv4RV8oOKG-fXYkKh_TrwfhcOoOTmTDB8IOfomeGxd3Ct2zgG8PxOXN7oUA8Qv3Nj0F_CEhBM9pSeKdlwgrH8csIkIMFQGhS46g15wVvrDj8eHqoIWd4NmG-vDw",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJmzlCMNgwK4gRF-gTPjZiOXI",
+      "plus_code": {
+        "compound_code": "PF2J+5X Toronto, Ontario",
+        "global_code": "87M2PF2J+5X"
+      },
+      "rating": 4.8,
+      "reference": "ChIJmzlCMNgwK4gRF-gTPjZiOXI",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 604
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "5625 Yonge St, North York, ON M2M 3S9, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.780473,
+          "lng": -79.415433
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.78181077989272,
+            "lng": -79.41418037010726
+          },
+          "southwest": {
+            "lat": 43.77911112010727,
+            "lng": -79.41688002989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Puck 'N Wings",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101034228378200710577\">Jade Smith</a>"
+          ],
+          "photo_reference": "CmRaAAAAbSZKwGKogSKjOOEiYmeWGsEcUUeHh_xibNRQtZCFUfKhw_MSUzaQlGU2TWOdqKszJGz_Kwx_FiHZiRWJYwCs4s8yPdjXx1ls94wk3ewTtjUqEGDNiq8kHATrvqPrvEBlEhAKpAeXV6eFjnGSM8AUYtbYGhSk3Ji5_SUYUT10L0YkMtMDuq5t0w",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJa1NFCw4tK4gR_cyXlWGUSCM",
+      "plus_code": {
+        "compound_code": "QHJM+5R North York, Toronto, ON",
+        "global_code": "87M2QHJM+5R"
+      },
+      "price_level": 2,
+      "rating": 3.8,
+      "reference": "ChIJa1NFCw4tK4gR_cyXlWGUSCM",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 773
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1760 Victoria Park Ave, North York, ON M1R 1R4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.736559,
+          "lng": -79.308101
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.73797017989272,
+            "lng": -79.30648992010728
+          },
+          "southwest": {
+            "lat": 43.73527052010728,
+            "lng": -79.30918957989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Adam’s Halal Pub",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2990,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105835182215001569524\">Sam Sam</a>"
+          ],
+          "photo_reference": "CmRaAAAAuMZx6B111E5osa7wq6urLYXjXtDHT9QK-MrTC6j_TEiFVl0_bmNG3IO32O31T9T7DWDDIm5rdX7RQMMjr7eC2ykeWKjjr3gQ40DPbKK4KMykcIlVx6QoHkulUvOWpo0zEhDalz2sdhphOD3b5KN_lwW4GhQnFpnkLTycD_RbCAm59EEZIBbYJw",
+          "width": 2990
+        }
+      ],
+      "place_id": "ChIJr9Oe8e3N1IkRnoDYIqP7zSI",
+      "plus_code": {
+        "compound_code": "PMPR+JQ North York, Toronto, ON",
+        "global_code": "87M2PMPR+JQ"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJr9Oe8e3N1IkRnoDYIqP7zSI",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 364
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "3401 Dufferin St, North York, ON M6A 2T9, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7251083,
+          "lng": -79.45280869999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.7279793,
+            "lng": -79.45084457010728
+          },
+          "southwest": {
+            "lat": 43.7241513,
+            "lng": -79.45354422989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "New York Fries - Yorkdale Shopping Centre",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117514195977851241060\">Suzzy</a>"
+          ],
+          "photo_reference": "CmRaAAAAV08c9j75E2j410k3Wy8Psaxq1XVXSW_SYp-nvt8j8wfRtRjtDyx5jB0KR4m_z6TX88Zz5JIAXL6vz9rXwHaptvm_o_bttjkVb3qBSVbMIbLIxehRn43IvtG5hCwY2EXNEhAo-iHBKesCKHJh-T_6LcJOGhQYnuoyWHyWz62j-XCfNidu_4Ur7A",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJH01KGNQzK4gRRG9has3-Dbk",
+      "plus_code": {
+        "compound_code": "PGGW+2V North York, Toronto, ON",
+        "global_code": "87M2PGGW+2V"
+      },
+      "rating": 3.4,
+      "reference": "ChIJH01KGNQzK4gRRG9has3-Dbk",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 55
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "49 Clock Tower Rd G010, North York, ON M3C 0G4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7342829,
+          "lng": -79.34364819999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.73562422989272,
+            "lng": -79.34234292010727
+          },
+          "southwest": {
+            "lat": 43.73292457010728,
+            "lng": -79.3450425798927
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "South St. Burger",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101673462634985270309\">South St. Burger Co.</a>"
+          ],
+          "photo_reference": "CmRaAAAAoJmJyIhU4C88U20cYoFcgYSS7kf3EgMIrYM8WckcoWa2NEpISHW5X1Ra5IyJdqg4hI89hMgIIviT0xiYfxXa21XGVtq2Z3evZ7AqHXd5ZvrKL-9f34vGKz1eBz2vJM0TEhBzN0dbMkvU-BeogT-150scGhQdCWvdiRFu6GAXxDVJv_lOCGaybg",
+          "width": 2366
+        }
+      ],
+      "place_id": "ChIJV0tdZnLN1IkRWQsIYZHQeo8",
+      "plus_code": {
+        "compound_code": "PMM4+PG North York, Toronto, ON",
+        "global_code": "87M2PMM4+PG"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJV0tdZnLN1IkRWQsIYZHQeo8",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 309
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "formatted_address": "5221 Yonge St, North York, ON M2N 5P8, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7712472,
+          "lng": -79.4131377
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.77258067989272,
+            "lng": -79.41190972010727
+          },
+          "southwest": {
+            "lat": 43.76988102010728,
+            "lng": -79.41460937989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Symposium Cafe Restaurant & Lounge",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114132713951145276988\">Matthew Gordon</a>"
+          ],
+          "photo_reference": "CmRaAAAAiRGY99ku6uadul0Nfn5Y5WbLwTrCVxopgTvK_mP0qjMzCDgosL_fG_8B6f7gSmjYRh_pN5_jghU5FH1HBjgXa1ohJ7d4K3kazhe1RU3SnGIVcQsHzzLavlf0hpLkcJPJEhDJ89ccX-XazieGQ0_fvoprGhTzKpnlD1vpYebWPqowIF3GmPQWcQ",
+          "width": 4048
+        }
+      ],
+      "place_id": "ChIJpRGS720tK4gRjtAfUomi610",
+      "plus_code": {
+        "compound_code": "QHCP+FP North York, Toronto, ON",
+        "global_code": "87M2QHCP+FP"
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "ChIJpRGS720tK4gRjtAfUomi610",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1099
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1 Yorkdale Rd, North York, ON M6A 2T9, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7261937,
+          "lng": -79.4543008
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.72770307989272,
+            "lng": -79.45241327010727
+          },
+          "southwest": {
+            "lat": 43.72500342010728,
+            "lng": -79.45511292989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "The Pickle Barrel",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109751284594804087019\">Simon Pella</a>"
+          ],
+          "photo_reference": "CmRaAAAAyYrUl6CFvyNBklecaBRVPQ7oHnMNxhlVLaKyyZx2yMH3ri3dAF_PTQwGE_ibVQK4P9t99bqql838s6EEWN3lisAwL3KuOvD-nxF0QuEN9aZ1O3n7K2A5qFJ3Fjvt0rRVEhCQIZnJ-7-aIvoCRM_spumEGhTdm7Qeg3Rcorj52kaG9ox1nA83Iw",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJl5-SijEyK4gRG92nyiZwy-U",
+      "plus_code": {
+        "compound_code": "PGGW+F7 North York, Toronto, ON",
+        "global_code": "87M2PGGW+F7"
+      },
+      "price_level": 2,
+      "rating": 3.7,
+      "reference": "ChIJl5-SijEyK4gRG92nyiZwy-U",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1335
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "4899 Yonge St, Toronto, ON M2N 5N4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.76393179999999,
+          "lng": -79.4112021
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.76529772989272,
+            "lng": -79.40974542010727
+          },
+          "southwest": {
+            "lat": 43.76259807010727,
+            "lng": -79.41244507989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Union Social Eatery",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 9072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106533381730204865145\">behnaz beikzadeh</a>"
+          ],
+          "photo_reference": "CmRaAAAATzgsXZxsQoYd-VCPfxLadcg1sATiAOHR-aUZBsOrH65BlHVJjS2K5KmYXP8l5Tl9cONgBIJU3YUmMWqKyCII81lvDfC86R40cbUZ5YD8g0hrAo2OfYX5R4vwxQo_7jrgEhAyyfckU8WJSWwnhhnLWE7iGhSQXsFYJhBW5DIDIFp9LxQF-GUuMg",
+          "width": 12096
+        }
+      ],
+      "place_id": "ChIJhxMGCGUtK4gRqAZ81aCEYGw",
+      "plus_code": {
+        "compound_code": "QH7Q+HG Toronto, Ontario",
+        "global_code": "87M2QH7Q+HG"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJhxMGCGUtK4gRqAZ81aCEYGw",
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2321
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1881 Steeles Ave W #12, North York, ON M3H 5Y4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7865435,
+          "lng": -79.4685091
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.78791052989272,
+            "lng": -79.46725027010729
+          },
+          "southwest": {
+            "lat": 43.78521087010728,
+            "lng": -79.46994992989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Fresh Burger, Dufferin And Steeles",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2539,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101952470958630789377\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAYJhODCyUO5xDY-S8tLARQExnFqm6kezwBGBegm-ZnApOHxvT82IkEoZpMX164imbMNriq9YD6HEe6Wip27hajMMAqNCFx0eJs5-5JE3NA9wn61ecucr23ccaE_XKlxl5EhDYI3xeUKhtJXbPX7zI6iEfGhTDprn1AYE4sc6ymxowVsLgpGNMDw",
+          "width": 1980
+        }
+      ],
+      "place_id": "ChIJZ_TajsQtK4gRvJ0fG1Y81fA",
+      "plus_code": {
+        "compound_code": "QGPJ+JH North York, Toronto, ON",
+        "global_code": "87M2QGPJ+JH"
+      },
+      "rating": 4.6,
+      "reference": "ChIJZ_TajsQtK4gRvJ0fG1Y81fA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 266
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1291 Wilson Ave Unit A, North York, ON M3M 3C6, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7237097,
+          "lng": -79.4937863
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.72520862989271,
+            "lng": -79.49250377010726
+          },
+          "southwest": {
+            "lat": 43.72250897010727,
+            "lng": -79.49520342989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Sean's Twisted",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112929793225833120799\">Sean Seol</a>"
+          ],
+          "photo_reference": "CmRaAAAAjx3zIQ6bSwnRShG4eqyN7byCUkCrIcLUSnQndX5ZAqSkXdZVsPOssr5KgHjIlv7w6siChsxmKXZVTZPaD-bTj83PLU7KZhSSbmxnXup52iBpv0RnWWyWnLv7MWqqEvGHEhDPq9D99QELKNz6Bclhhb8lGhQGkRtwJF6Xmu8PuDJ2dg7yEQ3NNA",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJq6r-2AoxK4gRf_L3RpK35EE",
+      "plus_code": {
+        "compound_code": "PGF4+FF North York, Toronto, ON",
+        "global_code": "87M2PGF4+FF"
+      },
+      "rating": 4.1,
+      "reference": "ChIJq6r-2AoxK4gRf_L3RpK35EE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 32
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "590 Sheppard Ave W, North York, ON M3H 2S1, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.756252,
+          "lng": -79.43932199999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.75752282989272,
+            "lng": -79.43793927010726
+          },
+          "southwest": {
+            "lat": 43.75482317010728,
+            "lng": -79.44063892989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Wimpy's Diner",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2880,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111352443400261617429\">Eduardo López</a>"
+          ],
+          "photo_reference": "CmRaAAAAG0kMcDR8pmimV6nN3MTg8riVTSGeQgqtB6k97vXpqwR8e-tGGCJ2WKSyttrrhduJWJ9pex1QAT6l8Ly0WypqVYL4fSFF1Girr3ZTQ36Y830eLBgbBCkgMFuTgvdnIxXREhAnikayjUr6E-aF5oyQ9dG3GhQLPt_PcCaXX8MVx7blk4X-08D2Hg",
+          "width": 2160
+        }
+      ],
+      "place_id": "ChIJbTPJG3cyK4gRRdsSuy1m6SQ",
+      "plus_code": {
+        "compound_code": "QH46+G7 North York, Toronto, ON",
+        "global_code": "87M2QH46+G7"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJbTPJG3cyK4gRRdsSuy1m6SQ",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 986
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1800 Sheppard Ave E Unit F003, Willowdale, ON M2H 4P8, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7783555,
+          "lng": -79.34302129999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.77975867989272,
+            "lng": -79.34164952010727
+          },
+          "southwest": {
+            "lat": 43.77705902010728,
+            "lng": -79.34434917989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "New York Fries - Fairview Mall",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114647768309629038951\">New York Fries</a>"
+          ],
+          "photo_reference": "CmRaAAAA1Acuq49TAVAhkInzS8BWmgpAWinZMr6G14WhdcpeuQS52HZ72jNB4ITrm4He5QoaK3k_Q289JuJq2S8rk1_sNh5pvuCglL-NBBt5rq_qWDknbYV8dhZuxiFdA-1RqZOHEhAZsCUGeEpAAfpIb5TDEMCMGhTM4bwN0zecnAEchCyZwzzsTLtWxg",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJA8h-d_rS1IkRMJRG79abIak",
+      "plus_code": {
+        "compound_code": "QMH4+8Q Toronto, Ontario",
+        "global_code": "87M2QMH4+8Q"
+      },
+      "rating": 3.9,
+      "reference": "ChIJA8h-d_rS1IkRMJRG79abIak",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 98
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "865 York Mills Rd, Toronto, ON M3B 1Y6, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7545139,
+          "lng": -79.350004
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.75582042989272,
+            "lng": -79.34885562010727
+          },
+          "southwest": {
+            "lat": 43.75312077010727,
+            "lng": -79.35155527989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Five Guys",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100221567490965661447\">Tiago Carvalho</a>"
+          ],
+          "photo_reference": "CmRZAAAArehZMh7YvgGuAs6XiOmnvnjc8T5Tnfa7yy06Fyjz9_Dq5T6aN1PlMaSOvcCAIhlJlkOBsh_9kM6vVNsP4oFgKEoNJmhvXqmmU1aLAOBhVCLSmx4eLbauazgtsnmOQgmcEhC-ldPZv5iGohYKolY1K7VKGhT8_pkCvRKzqYphgd6gnlpkEAYb8A",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJT-o2ZZzS1IkRwor2XPB2wMI",
+      "plus_code": {
+        "compound_code": "QJ3X+RX Toronto, Ontario",
+        "global_code": "87M2QJ3X+RX"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJT-o2ZZzS1IkRwor2XPB2wMI",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 737
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "85 Resolution Dr, Brampton, ON L6W 0A6, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6800007,
+          "lng": -79.718608
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.68128557989272,
+            "lng": -79.71731832010728
+          },
+          "southwest": {
+            "lat": 43.67858592010728,
+            "lng": -79.72001797989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Smokes Poutinerie",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114024028090232208158\">Patrick Santos</a>"
+          ],
+          "photo_reference": "CmRaAAAAdaeTYWbU8yzCA-5rJiEHH8pHfTEZLRGh-rqf_P5uFKZYzrV6ihP2kN8lu_ak1fke-qw1H5eBcEQvoskJOT-oW8fUNUWFUJMPFetLBxu2FTxl1wBaiSQb38K980FaNS6UEhDa4RBp4iYkaFM885VpULWyGhR_CwGLtk5d1pdrwYxY1oKUHfFcKA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJu8gWZmk_K4gRPyp5HQzffHA",
+      "plus_code": {
+        "compound_code": "M7JJ+2H Brampton, Ontario",
+        "global_code": "87M2M7JJ+2H"
+      },
+      "rating": 3.8,
+      "reference": "ChIJu8gWZmk_K4gRPyp5HQzffHA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 225
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "21 Kennedy Rd N, Brampton, ON L6V 1X5, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6958673,
+          "lng": -79.7506513
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.69735297989273,
+            "lng": -79.74910392010727
+          },
+          "southwest": {
+            "lat": 43.69465332010729,
+            "lng": -79.75180357989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Sonny's Drive In",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102005778125961645404\">Raj Kullar</a>"
+          ],
+          "photo_reference": "CmRaAAAAltWqGZodK6XtrKAy7bxBPM7HjTEOhO5aLcbi9ov4Yjk7y0UbYrkFAH-Ug1AKRTSONc9EI5exSngQ8Lju4wBwcB-avZ-xlAVdZL14_tUbG36UVAAxQqRh417QxbxzWaQiEhD-18aRANyqh0yRqpsAvz-VGhS9GyZG95FwwLVYPzrnE5VjDqnb2Q",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ_R8ZE_IVK4gRQQtyweiTHHk",
+      "plus_code": {
+        "compound_code": "M6WX+8P Brampton, Ontario",
+        "global_code": "87M2M6WX+8P"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJ_R8ZE_IVK4gRQQtyweiTHHk",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1626
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "8 Queen St E, Brampton, ON L6V 1A2, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6863875,
+          "lng": -79.7598247
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.68766057989272,
+            "lng": -79.75834177010728
+          },
+          "southwest": {
+            "lat": 43.68496092010727,
+            "lng": -79.76104142989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "The WORKS Gourmet Burger Bistro",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105798769538827974986\">Mark</a>"
+          ],
+          "photo_reference": "CmRaAAAALonvQA6AnMEwz91Z3sDXIoLAAH_eDust2sFsSYE0Feac2BVf3GXgFZn3r7YMU2QVp5FFk1gZhTrvVXR_RR3zstg-9uuT3TE_Wj8Cd56NplXq7tnXbvhvpyrUOMuYRabSEhBezVOwfsWivLx49vBm1v26GhQF4wPa-4SdJ_cfU196bpBD9qR6eg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJYYhOVZYVK4gR6w9THldR6Mc",
+      "plus_code": {
+        "compound_code": "M6PR+H3 Brampton, Ontario",
+        "global_code": "87M2M6PR+H3"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJYYhOVZYVK4gR6w9THldR6Mc",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 914
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "160 Wilkinson Rd, Brampton, ON L6T 4Z4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.692578,
+          "lng": -79.699573
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.69400242989272,
+            "lng": -79.69832712010728
+          },
+          "southwest": {
+            "lat": 43.69130277010728,
+            "lng": -79.70102677989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "BriSkit",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2610,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114760619043966788281\">Edward Tang</a>"
+          ],
+          "photo_reference": "CmRaAAAAqzqQoWWxT0zE6Ka5WBoqWgovlo8vl2f1IYEDa7P333pojhIKQP-yrwA76dnR9ypjOaIBZgaske4eSXH3sh3WyruzOruXn27HU25fjlKyT5HjjXLXxO-dNxQrQPlrWO9kEhDvaodjHO3-S5g1J4gCFsQkGhRvmomLUa3QvgOIt1T6Chck6lly_w",
+          "width": 4640
+        }
+      ],
+      "place_id": "ChIJ94_srB4-K4gRfUfaP45lKCk",
+      "plus_code": {
+        "compound_code": "M8V2+25 Brampton, Ontario",
+        "global_code": "87M2M8V2+25"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ94_srB4-K4gRfUfaP45lKCk",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 304
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "130 Queen St E, Brampton, ON L6V 1B1, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6908486,
+          "lng": -79.7555184
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.69215462989272,
+            "lng": -79.75406187010728
+          },
+          "southwest": {
+            "lat": 43.68945497010728,
+            "lng": -79.75676152989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "San Francisco Place",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118025810956447373202\">Marina Leps</a>"
+          ],
+          "photo_reference": "CmRaAAAABeuW1FSYGiO0rnBQKuxg3OmRysa1S91GxmQthf4olB-XNTjPy6jrr_t45fKiss-smI-Si_eI29wQUBipRQXElp5Ar_1g4qUkvUeOePwt_3bS-JUH4kOy9rI9nAv7MGZYEhChzm1prwDIoB-pFqzmvKJiGhRU9b_HV8XMSCUOHuEyHEtQWh02Sg",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJKwIMCZMVK4gR4Hdmu6qk7dk",
+      "plus_code": {
+        "compound_code": "M6RV+8Q Brampton, Ontario",
+        "global_code": "87M2M6RV+8Q"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJKwIMCZMVK4gR4Hdmu6qk7dk",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 121
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "71 Rosedale Ave W Unit 5, Brampton, ON L6X 1K4, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6873267,
+          "lng": -79.7705209
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.68878432989272,
+            "lng": -79.76935847010728
+          },
+          "southwest": {
+            "lat": 43.68608467010728,
+            "lng": -79.77205812989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "RD's Southern BBQ",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100775242980229810063\">Markus Barth</a>"
+          ],
+          "photo_reference": "CmRaAAAA_6OXpJxJqCKCxpphS-PXNqk-zO_PtZpeRGuqjD-1H6O1eCqrD4DOX2Soh9O5xAG9TTklPUTUmzYad7ioBfNJm-W10Bd7BBUHq1Akm1flm18PkrDi5holow023jTGrNuiEhCEsOQ4Y7CAZcZGMboMqiwFGhTNmiBg5VcXUW4DIgcG3Ud856dhPg",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJM_GXiJk_K4gRUi3_DakvQW8",
+      "plus_code": {
+        "compound_code": "M6PH+WQ Brampton, Ontario",
+        "global_code": "87M2M6PH+WQ"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJM_GXiJk_K4gRUi3_DakvQW8",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 814
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "10025 Hurontario St, Brampton, ON L6Z 0E6, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7069541,
+          "lng": -79.7864305
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.70826897989272,
+            "lng": -79.78512102010727
+          },
+          "southwest": {
+            "lat": 43.70556932010728,
+            "lng": -79.78782067989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Hero Certified Burgers",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100783606417722855726\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAYICz2S9VdersCN-mzhLn9Zx6KCV9ixxSyrdptjetFVQIyCVBKEK9X6cr66T3bmtB8OLk2-EdpHUFATHhuoP7WKfRpQvM_MwADC2viqZINv4N-7K1asuOhHBbnvLYx5eLEhBVMW-t2WWApS4bYb2pCUm5GhS4MFmsEYiaj61ACHox06GqPR3zNg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJMZkqmC0UK4gRxZjo-qNT9cs",
+      "plus_code": {
+        "compound_code": "P647+QC Brampton, Ontario",
+        "global_code": "87M2P647+QC"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJMZkqmC0UK4gRxZjo-qNT9cs",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 647
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "227 Vodden St E, Brampton, ON L6V 1N2, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7022024,
+          "lng": -79.7558164
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.70349712989272,
+            "lng": -79.75471632010728
+          },
+          "southwest": {
+            "lat": 43.70079747010728,
+            "lng": -79.75741597989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Frank's Hamburger Inc",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100168576469443378768\">Heren Huang</a>"
+          ],
+          "photo_reference": "CmRaAAAASVQi_6ndEAfSVjEvpdvE-nLc1-37_WcPcCJiZQ2gEfmahue5hsYsewU6I7nYh2i7-lV69zS0B_tQTT33unMcLdB2svSR0j3qPoCuYGt8PDc8Naaax7_8-dha1kwnOWjXEhA_J9MWMsKQXLlL4x1m_rhVGhRgV1umJqMUiqSzr1z__mQX5Q9kCg",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJebFTceYVK4gR5MDG7ty6KnE",
+      "plus_code": {
+        "compound_code": "P62V+VM Brampton, Ontario",
+        "global_code": "87M2P62V+VM"
+      },
+      "rating": 4.4,
+      "reference": "ChIJebFTceYVK4gR5MDG7ty6KnE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 84
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "10 Gillingham Dr #105, Brampton, ON L6X 5A5, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7035675,
+          "lng": -79.784671
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.70496037989272,
+            "lng": -79.78326277010729
+          },
+          "southwest": {
+            "lat": 43.70226072010728,
+            "lng": -79.78596242989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Shawarma Queen",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2108,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113918559297510015493\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAPXpQH5W8hekpdv82tZK1PIhZK-BAbSFYEUsUL_ul-91qgQHjPC3ng1JApGxZfe_3YmXEWs0wfGgVfISi3DoYGffAqKvtQorpLwUiScaf-3vPn__SS_gbPGMZXEh4lKDREhDmY97VY1ItQ1C5iGOBKiTaGhTNejKfEhU1urUE4XEb-rfSxLhe4Q",
+          "width": 1134
+        }
+      ],
+      "place_id": "ChIJja1z1cwVK4gRR1Z6ot4X2ZA",
+      "plus_code": {
+        "compound_code": "P638+C4 Brampton, Ontario",
+        "global_code": "87M2P638+C4"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJja1z1cwVK4gRR1Z6ot4X2ZA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 657
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "341 Main St N, Brampton, ON L6X 1N5, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6925,
+          "lng": -79.7694444
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.69388127989272,
+            "lng": -79.76805562010728
+          },
+          "southwest": {
+            "lat": 43.69118162010727,
+            "lng": -79.77075527989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "J. Red & Co Food + Drink",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117691260099590435060\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAsAndUCXz6GyEIPu6pZJCsHpP6z3sItPkPMoqPNinlGgH0FY9XBbHPIbZIe5JRPEZHJtYJmJat2OYxhWpnHM8A7DRhwL9pPmvp3KHS6m_UvVQtG_6aC-LI8Tw0R6B_BK6EhDpOIQ6UTKzSuj8DiSfSwaiGhSadUTQ5jZ_aO1o5Y7WHsygeJE9AQ",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJr_H95rgVK4gRlREQZ1lP30U",
+      "plus_code": {
+        "compound_code": "M6RJ+X6 Brampton, Ontario",
+        "global_code": "87M2M6RJ+X6"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJr_H95rgVK4gRlREQZ1lP30U",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1129
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "66 Quarry Edge Dr, Brampton, ON L6V 4K2, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7080259,
+          "lng": -79.78338769999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.70932092989272,
+            "lng": -79.78196227010729
+          },
+          "southwest": {
+            "lat": 43.70662127010728,
+            "lng": -79.78466192989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Five Guys",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106774085451622613912\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAnganK4WCh8VpSBFLk4oetNmvrV6I1dWaDBB7XKk_6E9c3ADq03prwrLhBgnALBNHuiqcwdkvtjYKVOtpmUEYzDq4vhzp-nuuG0_hJGmnoss1Xbnx7yz85LmXb-4iPpZ9EhB8zvtTEmk7VSCwtk2qO8YWGhS2zztXoDLnuLV_IeNWhiuJyNAMoQ",
+          "width": 3096
+        }
+      ],
+      "place_id": "ChIJLe3IP9MVK4gRhWWdQFWwj4M",
+      "plus_code": {
+        "compound_code": "P658+6J Brampton, Ontario",
+        "global_code": "87M2P658+6J"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJLe3IP9MVK4gRhWWdQFWwj4M",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 749
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "295 Queen St E, Brampton, ON L6W 3R1, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.70220399999999,
+          "lng": -79.736527
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.70350282989273,
+            "lng": -79.73512572010729
+          },
+          "southwest": {
+            "lat": 43.70080317010729,
+            "lng": -79.73782537989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Heritage Fish & Chips",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111442190230847869047\">Franklin C</a>"
+          ],
+          "photo_reference": "CmRaAAAAbzqIyllYn3x47PDIt52gpZAWF8mOqV9UOEvy6tswBNfdj7nyUcl9ak9pBwPceEKjvWimQldcp0PMz3X76eJyEmh09fvIN4uCDsCraBobpM_VHLFB3_dlirpPJ4ycQBvkEhB5JyMV543qEiaTqtem_AWZGhRw7bcnY6xHLOaIy_rt9GoTKZmFaQ",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJgyiRUAI-K4gR6U2eLDcJQ80",
+      "plus_code": {
+        "compound_code": "P727+V9 Brampton, Ontario",
+        "global_code": "87M2P727+V9"
+      },
+      "rating": 4.5,
+      "reference": "ChIJgyiRUAI-K4gR6U2eLDcJQ80",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1069
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "53 Kennedy Rd N, Brampton, ON L6V 1X6, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.69704060000001,
+          "lng": -79.7518577
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.69842412989272,
+            "lng": -79.75045967010729
+          },
+          "southwest": {
+            "lat": 43.69572447010728,
+            "lng": -79.75315932989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Paradise Chicken",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 900,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114286138578780014791\">Faraz Qureshi</a>"
+          ],
+          "photo_reference": "CmRaAAAApQocMS8uqFvmDquanSebqJv_PBzNMPwZULmCLR4N8lFYPosXnRC7XDIu0BjJl3b0gbvz9_p5zF7LUU5lfXHJ92nsFVaXHYTGHOLAPpm0-7cQ1_UvfUJYqfb_3JGB05bWEhC0GZiOWBABw6zJFoYps2GzGhR6_bATGHybXWJPG14Dj3Ewqrj6PQ",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJg8hT-e0VK4gRsWcn49zc5Ag",
+      "plus_code": {
+        "compound_code": "M6WX+R7 Brampton, Ontario",
+        "global_code": "87M2M6WX+R7"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJg8hT-e0VK4gRsWcn49zc5Ag",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 250
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "2919 Queen St E, Brampton, ON L6V 4K2, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7403191,
+          "lng": -79.6987027
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.74163427989272,
+            "lng": -79.69739752010727
+          },
+          "southwest": {
+            "lat": 43.73893462010728,
+            "lng": -79.70009717989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Burger King",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102224676812892854326\">Tommy Lu</a>"
+          ],
+          "photo_reference": "CmRaAAAAYYEENKVlvB1d5USoGF87r1kIdhCcnd8W7WipaFgA17GiC53MeoPgJOwYO0rk_b1auaXzD_6YbNVCat7QuGw1HIrQRtEDtgEvd8-UaloIHcgnEYPrZE3oicfPVQIsLJluEhBoc0VgdDoaz7GoKlnEathMGhTYIVrlS0XWb5P33ZPx6kauHcCjBg",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJifI6fPgVK4gRQ_ci1BJ8a_w",
+      "plus_code": {
+        "compound_code": "P8R2+4G Brampton, Ontario",
+        "global_code": "87M2P8R2+4G"
+      },
+      "price_level": 1,
+      "rating": 3.7,
+      "reference": "ChIJifI6fPgVK4gRQ_ci1BJ8a_w",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 738
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "35 Resolution Dr, Brampton, ON L6W 0A6, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6790303,
+          "lng": -79.7209037
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.68026712989272,
+            "lng": -79.71965662010727
+          },
+          "southwest": {
+            "lat": 43.67756747010728,
+            "lng": -79.72235627989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Quik Chik - Brampton - 410/Steeles",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106819556759940295593\">Quik Chik 410 &amp; Steeles</a>"
+          ],
+          "photo_reference": "CmRaAAAAQ39TRsAnDGIDoO_vnEQCPnOFd5Us0J9m3dh7LrNG8nl4xbo9JxcdeagXzZzhtBHPMwbptvbFOeHSxgq78nov-GI2IZEnsYobwyzy4HTZKvBA2JTMyOj9XEAiSCUszY6kEhCLbqqlroUi-j9JtncSRBrlGhT13YwuPVrGs8rBn2VyRnwWv8eHMA",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJ81lYczc-K4gRnc5BE-AvIEU",
+      "plus_code": {
+        "compound_code": "M7HH+JJ Brampton, Ontario",
+        "global_code": "87M2M7HH+JJ"
+      },
+      "rating": 3.9,
+      "reference": "ChIJ81lYczc-K4gRnc5BE-AvIEU",
+      "types": [
+        "bakery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 336
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "100 Maritime Ontario Blvd, Brampton, ON L8S 0E7, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7490971,
+          "lng": -79.6975926
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.75041832989272,
+            "lng": -79.69620282010727
+          },
+          "southwest": {
+            "lat": 43.74771867010728,
+            "lng": -79.69890247989271
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Food Fight BBQ Smokehouse",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2286,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117961601731405281270\">Annie L</a>"
+          ],
+          "photo_reference": "CmRaAAAAQe9knVv8o_vQoeQK3sop1Rikjr15Qn5D_rJUgRmZ0kLguRKuJ-VX4s02c9Ie0DfhqsLwTTL0xLK66a3rtnbLKXfUhRNtG0Y3r0XDhZJzCKn6JcETxToOeCiHl4NAIfjQEhDP7Y7G0sq-jwy-N1KV_wLdGhS3G_UwvK8iolQT1XTQbf4qOreTlg",
+          "width": 3023
+        }
+      ],
+      "place_id": "ChIJ45xDgAE9K4gR1N9M1hHhYX0",
+      "plus_code": {
+        "compound_code": "P8X2+JX Brampton, Ontario",
+        "global_code": "87M2P8X2+JX"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJ45xDgAE9K4gR1N9M1hHhYX0",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 550
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "8970 Chinguacousy Rd, Brampton, ON L6Y 5X6, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6654975,
+          "lng": -79.7809225
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.66681537989272,
+            "lng": -79.77961017010728
+          },
+          "southwest": {
+            "lat": 43.66411572010728,
+            "lng": -79.78230982989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Quik Chik - Queen/Chinguacousy",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114407171815397804817\">Sameen Farrukh</a>"
+          ],
+          "photo_reference": "CmRaAAAApRlY7JvoeG9McbnFj88wfD2BEPIaBRRpJDsIsYaTZj508MdQbKBEEnFMCJjqWNsHPr5HxjC-0a5req7mkxWBTosPR5JRv6KaEyz2YnUmZL8LIdWyU3oG-FefniYZD_vOEhCf-C03OVFoG82vQ_xQPLfRGhRWghbtYs_V4yaCCW0hyB3L58W0pw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJEzvBvhwVK4gRny1elcGr_gU",
+      "plus_code": {
+        "compound_code": "M689+5J Brampton, Ontario",
+        "global_code": "87M2M689+5J"
+      },
+      "price_level": 2,
+      "rating": 3.8,
+      "reference": "ChIJEzvBvhwVK4gRny1elcGr_gU",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 322
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "18 Rambler Dr, Brampton, ON L6W 1E2, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6784905,
+          "lng": -79.7275417
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.67992487989272,
+            "lng": -79.72629592010728
+          },
+          "southwest": {
+            "lat": 43.67722522010727,
+            "lng": -79.72899557989273
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Quickies",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117997832521756011299\">Quickies</a>"
+          ],
+          "photo_reference": "CmRaAAAAph3unF2m3eDz_r9YwKJwuGMYLPgB9DVUpi80Ofb_7SV33qayxKKb-sb_9UavLKIuZx6hd6cxhJbF8ddl8-4eRlLltQMgqIjrr1AeJ_DNHwidBI6EDnLZRwDbcRwfmAuuEhCr4-78UXD7BQO699kBa6ffGhSNluAUt-ECqTRIXJCHVO44PcJa9w",
+          "width": 2000
+        }
+      ],
+      "place_id": "ChIJLQMRMzA-K4gRRoY8s00C8lI",
+      "plus_code": {
+        "compound_code": "M7HC+9X Brampton, Ontario",
+        "global_code": "87M2M7HC+9X"
+      },
+      "price_level": 1,
+      "rating": 3.2,
+      "reference": "ChIJLQMRMzA-K4gRRoY8s00C8lI",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "285 Queen St E, Brampton, ON L6W 2C2, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.7027994,
+          "lng": -79.74020449999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.70411422989272,
+            "lng": -79.73879742010729
+          },
+          "southwest": {
+            "lat": 43.70141457010727,
+            "lng": -79.74149707989272
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Burger King",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1166,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113660701906820267007\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAhi-D_D4YHWGdk0QEqtjQfMbmA4Jc7gUGn7o_ri7MjoT-vqjCno-ARpEg1t_M45gjEBIShGzFlG5cgtZhcRr8oYxoKk5KCZxsmWUEKy5ljeCPTh3dhdTk_5JElP-lXcsnEhDwPXGX4f82M6uTNXDyOTRdGhQTpVvQkmtMbVluuCtiZmq7_LKm8g",
+          "width": 1194
+        }
+      ],
+      "place_id": "ChIJHWhtd_gVK4gRYRpm0l6XA2c",
+      "plus_code": {
+        "compound_code": "P735+4W Brampton, Ontario",
+        "global_code": "87M2P735+4W"
+      },
+      "price_level": 1,
+      "rating": 3.9,
+      "reference": "ChIJHWhtd_gVK4gRYRpm0l6XA2c",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 973
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "239 Queen St E #1, Brampton, ON L6W 2B6, Canada",
+      "geometry": {
+        "location": {
+          "lat": 43.6968502,
+          "lng": -79.74748780000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 43.69832192989272,
+            "lng": -79.74634252010729
+          },
+          "southwest": {
+            "lat": 43.69562227010728,
+            "lng": -79.74904217989274
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Shawarma Corner",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102605238000290138412\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAA-QJCGbm9EYE3H_2r0Wam1BFJ_Zd5qKIbToSlmWdKlMuONvr3V8KNurE6CqQkiSehmdc6hjxgtUOkLdl-D5n-diPiUwwkKdZSbw_Vz88N2IpNSkAbo_I0O_nxNTsRi9AwEhDr11UW63Zd7oTD6CslKbGQGhSupnsY1eaDu87ZvbRIq-NyTU7igw",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJcaBT2PMVK4gRjepJoM7gXKQ",
+      "plus_code": {
+        "compound_code": "M7W3+P2 Brampton, Ontario",
+        "global_code": "87M2M7W3+P2"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJcaBT2PMVK4gRjepJoM7gXKQ",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 473
     }
   ]
 }

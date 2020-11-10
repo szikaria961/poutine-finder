@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const API_BASE = 'https://maps.googleapis.com/maps/api/place/textsearch/';
 const API_KEY = process.env.API_KEY;
 

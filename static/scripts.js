@@ -25,11 +25,26 @@ function initMap() {
           lat: item.geometry.location.lat, lng: item.geometry.location.lng
         },
         name: item.name,
-        address: item.address
+        address: item.address,
+        priceLevel: item.price_level,
+        ratings: item.rating
       });
     });
 
-    function addMarkers(locationData){
+    function addMarkers(placeData){
+      var customMarker = {
+        url: "/images/poutine-marker.png",
+        scaledSize: new google.maps.Size(25, 25),
+        origin: new google.maps.Point(0,0),
+        anchor: new google.maps.Point(0, 0)
+      };
+      var marker = new google.maps.Marker({
+        position: placeData.coords,
+        map: map,
+        icon: customMarker,
+      });
+      var dollarSign;
+
       if(navigator.geolocation) {
         navigator.geolocation.getCurrentPosition((position) => {
           const pos = {
@@ -39,14 +54,27 @@ function initMap() {
           map.setCenter(pos);
         });
       }
-      var marker = new google.maps.Marker({
-        position: locationData.coords,
-        map: map,
-      });
+
+
+      function getDollarSign(priceLevel) {
+        var dollarSignMap = {
+          1: "$",
+          2: "$$",
+          3: "$$$"
+        }
+        if (dollarSignMap[priceLevel]) {
+          return dollarSignMap[priceLevel];
+        }
+        return "$";
+      }
 
       var infoWindow = new google.maps.InfoWindow({
-        content:`<p>Name: ${locationData.name}</p>
-                 <p>Address: ${locationData.address}</p>`
+        content:`<div class="location-data">
+                   <p>Name: ${placeData.name}</p>
+                   <p>Address: ${placeData.address}</p>
+                   <p>Price Level: ${getDollarSign(placeData.priceLevel)} </p>
+                   <p>Stars: ${placeData.ratings}</p>
+                 </div>`
       });
 
       marker.addListener('click', function(){
