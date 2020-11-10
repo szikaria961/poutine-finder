@@ -2,6 +2,8 @@
 
 A small webapp that helps find poutine places near you.
 
+![Toronto Poutine Finder](https://raw.githubusercontent.com/szikaria961/poutine-finder/main/preview.png)
+
 Live preview is available [here](http://poutine-finder.herokuapp.com).
 
 ## Development
