@@ -12,6 +12,22 @@
   font-size: 1em;
 }
 
+.page-footer {
+  margin-top: 1rem;
+  color: #ffeaa7;
+  font-weight: 100;
+  font-size: 0.75em;
+  text-align: center;
+}
+
+.heart-icon {
+  color: #bd2e2f;
+}
+
+.github-link {
+  text-decoration: none;
+}
+
 body {
   font-family: 'Nunito', sans-serif;
   background-color: #2d3436;
@@ -30,4 +46,8 @@ p {
   margin: 0;
   color: #2d3436;
   font-weight: 400;
+}
+
+a {
+  color: inherit;
 }
