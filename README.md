@@ -14,7 +14,7 @@ Live preview is available [here](http://poutine-finder.herokuapp.com).
 ### Installation
 
 ```
-git clone https://github.com/nafeu/poutine-finder.git
+git clone https://github.com/szikaria961/poutine-finder.git
 cd poutine-finder
 npm install
 cp .example-env .env
